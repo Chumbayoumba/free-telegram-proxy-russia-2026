@@ -1,0 +1,4 @@
+# Free Telegram MTProto Proxy List 2026 — Russia
+# Format: host:port:secret
+# Update: 2026-06
+free.glushilok.net:9443:ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275

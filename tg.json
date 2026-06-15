@@ -1,0 +1,8 @@
+[
+  {
+    "server": "free.glushilok.net",
+    "port": 9443,
+    "secret": "ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275",
+    "type": "mtproto"
+  }
+]
