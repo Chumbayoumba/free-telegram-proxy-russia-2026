@@ -67,13 +67,20 @@ free.glushilok.net:9443:ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e6567
 
 **На каких операторах работает?** МТС, МегаФон, Tele2, Билайн, Yota, Ростелеком и другие в России.
 
+**Как узнать, что именно заблокировано у меня?** Запусти бесплатную проверку блокировок (Чебурнет Коннект): 👉 [glushilok.net/proverka](https://glushilok.net/proverka/) — покажет, какие сервисы недоступны у твоего оператора и есть ли DPI/ТСПУ.
+
 **Нужен полный VPN (YouTube, Instagram, WhatsApp, банки)?** Прокси возвращает только Telegram. Для всего интернета — VPN на VLESS Reality: 👉 [@vnespiskabot](https://t.me/vnespiskabot)
+
+**Нужен прокси/доступ к WhatsApp?** См. отдельную инструкцию: 👉 [glushilok.net/whatsapp-proxy](https://glushilok.net/whatsapp-proxy/)
 
 ---
 
 ## 🌐 Больше прокси и VPN
 
 - 🔗 **Сайт:** [glushilok.net](https://glushilok.net/) — бесплатный прокси + VPN
+- 🛡 **Проверка блокировок (Чебурнет Коннект):** [glushilok.net/proverka](https://glushilok.net/proverka/) — узнай, что заблокировано у тебя
+- 📱 **Прокси для WhatsApp:** [glushilok.net/whatsapp-proxy](https://glushilok.net/whatsapp-proxy/)
+- 📚 **Гайды по VPN и обходу DPI:** [glushilok.net/guides](https://glushilok.net/guides/) — Hiddify, V2RayNG, NekoBox, VLESS на роутере
 - 🤖 **VPN-бот:** [@vnespiskabot](https://t.me/vnespiskabot) — обход белых списков, YouTube, WhatsApp, Instagram
 - 📢 **Telegram-канал:** [@vnespiska](https://t.me/vnespiska) — свежие прокси и новости блокировок
 
