@@ -9,6 +9,8 @@
 
 **Free working Telegram MTProto proxy for Russia 2026.** Bypass blocking, throttling and white-lists. One-tap connect, no registration, no payment.
 
+> 🟢 **Сайт, который открывается без VPN:** [goida.win](https://goida.win/) — актуальный [прокси для Telegram](https://goida.win/proxy-telegram/), [что делать, если Telegram не работает](https://goida.win/telegram-ne-rabotaet/), [блокировка Telegram в 2026](https://goida.win/blokirovka-telegram/). Свежий адрес прокси — в канале [@vnespiska](https://t.me/vnespiska).
+
 ---
 
 ## ⚡ Подключиться в один клик
@@ -77,6 +79,7 @@ free.glushilok.net:9443:ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e6567
 
 ## 🌐 Больше прокси и VPN
 
+- 🟢 **Зеркало без блокировки:** [goida.win](https://goida.win/) — прокси для Telegram и VPN; [обход белых списков](https://goida.win/obhod-belyh-spiskov/), [VPN от глушилок](https://goida.win/vpn-obhod-glushilok/), [Goida VPN: бесплатные конфиги](https://goida.win/goida-vpn/)
 - 🔗 **Сайт:** [glushilok.net](https://glushilok.net/) — бесплатный прокси + VPN
 - 🛡 **Проверка блокировок (Чебурнет Коннект):** [glushilok.net/proverka](https://glushilok.net/proverka/) — узнай, что заблокировано у тебя
 - 📱 **Прокси для WhatsApp:** [glushilok.net/whatsapp-proxy](https://glushilok.net/whatsapp-proxy/)
@@ -88,7 +91,7 @@ free.glushilok.net:9443:ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e6567
 
 ## 🔑 Ключевые слова
 
-бесплатный прокси телеграм, рабочий прокси telegram 2026, mtproto proxy, прокси для телеграм россия, обход блокировки телеграм, telegram не работает, прокси мтс мегафон tele2 билайн yota, free telegram proxy, working mtproto proxy russia, telegram proxy list, обход глушилок интернета, белые списки обход, telegram proxy server free, mtproxy, прокси сервер телеграм бесплатно, vpn для телеграм, telegram unblock russia 2026
+бесплатный прокси телеграм, рабочий прокси telegram 2026, mtproto proxy, прокси для телеграм россия, обход блокировки телеграм, telegram не работает, прокси мтс мегафон tele2 билайн yota, free telegram proxy, working mtproto proxy russia, telegram proxy list, обход глушилок интернета, белые списки обход, telegram proxy server free, mtproxy, прокси сервер телеграм бесплатно, vpn для телеграм, telegram unblock russia 2026, goida vpn, goida.win, зеркало glushilok.net
 
 ---
 
