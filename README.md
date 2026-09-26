@@ -1,5 +1,6 @@
 # 🚀 Бесплатный прокси для Telegram (MTProto) — Россия 2026
 
+[![WEB Proxy](https://img.shields.io/badge/NEW-WEB%20Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
 [![Telegram Proxy](https://img.shields.io/badge/Telegram-Proxy-blue?logo=telegram)](tg://proxy?server=free.glushilok.net&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275)
 [![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://glushilok.net/)
 [![Status](https://img.shields.io/badge/status-ONLINE-success)](https://glushilok.net/)
@@ -26,6 +27,29 @@ https://t.me/proxy?server=free.glushilok.net&port=9443&secret=ee5b1977cd65b2b90a
 ```
 tg://proxy?server=free.glushilok.net&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
 ```
+
+---
+
+## 🆕 WEB-прокси для Telegram Desktop — бесплатно
+
+С августа 2026 года **Telegram Desktop 7.1.1+** поддерживает новый тип прокси — **WEB**. Трафик Telegram идёт через обычный HTTPS/WebSocket, как у сайта, поэтому такой прокси сложнее распознать и заблокировать. Переписку прокси не видит: он передаёт уже зашифрованные данные.
+
+👉 **[ПОДКЛЮЧИТЬ WEB-ПРОКСИ](https://vnespiska.win/webproxy/)** 👈 (кнопка на странице откроет Telegram Desktop)
+
+| Параметр | Значение |
+|----------|----------|
+| **Тип** | `WEB` |
+| **Сервер** | `free.vnespiska.win` |
+| **Секрет** | `9fc8d7d1aeee614bd5fa3b760da44dd3` |
+| **Клиент** | Telegram Desktop 7.1.1+ (Windows, macOS, Linux) |
+
+Ссылка для Telegram Desktop — отправь себе в «Избранное» и нажми там:
+
+```
+tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
+```
+
+> ⚠️ Ссылку `t.me/webproxy?…` не открывай в браузере: сайт t.me пока не знает этот тип ссылок и покажет посторонний канал. На телефонах WEB-прокси пока нет — там используй MTProto выше.
 
 ---
 
