@@ -22,8 +22,8 @@ jobs:
         run: python3 scripts/update.py
       - name: Commit
         run: |
-          git config user.name "proxy-list-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Egor"
+          git config user.email "104503229+Chumbayoumba@users.noreply.github.com"
           git add README.md proxies.txt proxy-list.txt mtproto.json tg.json
           if git diff --cached --quiet; then echo "no changes"; exit 0; fi
           git commit -m "Рабочие прокси для Telegram: обновлено $(TZ=Europe/Moscow date '+%d.%m.%Y %H:%M') МСК"
