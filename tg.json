@@ -6,18 +6,6 @@
     "type": "mtproto"
   },
   {
-    "server": "132.243.231.76",
-    "port": 443,
-    "secret": "ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275",
-    "type": "mtproto"
-  },
-  {
-    "server": "ppl.vpnpplvpn.top",
-    "port": 8443,
-    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-    "type": "mtproto"
-  },
-  {
     "server": "edge.turboass.live",
     "port": 443,
     "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
@@ -30,9 +18,9 @@
     "type": "mtproto"
   },
   {
-    "server": "90.156.216.188",
+    "server": "ppl.vpnpplvpn.top",
     "port": 8443,
-    "secret": "ddee676f6f676c652e636f6de21ff0db1d",
+    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
     "type": "mtproto"
   },
   {
@@ -45,6 +33,12 @@
     "server": "193.39.15.115",
     "port": 443,
     "secret": "dd585256032fd8a78a0602ddd90f9c981f",
+    "type": "mtproto"
+  },
+  {
+    "server": "stream.lovely.lat",
+    "port": 443,
+    "secret": "ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
     "type": "mtproto"
   }
 ]

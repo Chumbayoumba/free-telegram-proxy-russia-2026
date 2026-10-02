@@ -1,7 +1,7 @@
 # 🚀 Бесплатный прокси для Telegram (MTProto) — Россия 2026
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Si9-YyVaQTU1MjAy)
-[![Proxies online](https://img.shields.io/badge/proxies_online-8-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
+[![Proxies online](https://img.shields.io/badge/proxies_online-7-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![Updated](https://img.shields.io/badge/updated-02.10.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![WEB Proxy](https://img.shields.io/badge/NEW-WEB_Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
 [![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://t.me/+Si9-YyVaQTU1MjAy)
@@ -11,7 +11,7 @@
 **Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 02.10.2026 05:58 МСК** · рабочих прокси: **8** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 02.10.2026 13:21 МСК** · рабочих прокси: **7** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 ---
@@ -23,14 +23,13 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `94.139.247.202` | `443` | 🟢 4 мс | **[⚡ Подключить](https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d)** |
-| 2 | `132.243.231.76` | `443` | 🟢 30 мс | **[⚡ Подключить](https://t.me/proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275)** |
-| 3 | `ppl.vpnpplvpn.top` | `8443` | 🟡 147 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 4 | `edge.turboass.live` | `443` | 🟡 156 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 5 | `host.white-dns.info` | `443` | 🟠 206 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 6 | `90.156.216.188` | `8443` | 🟢 2 мс | **[⚡ Подключить](https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d)** |
-| 7 | `ultra.mishutkin.click` | `443` | 🟠 293 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
-| 8 | `193.39.15.115` | `443` | 🟢 56 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+| 1 | `94.139.247.202` | `443` | 🟢 3 мс | **[⚡ Подключить](https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d)** |
+| 2 | `edge.turboass.live` | `443` | 🟡 179 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 3 | `host.white-dns.info` | `443` | 🟠 212 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 4 | `ppl.vpnpplvpn.top` | `8443` | 🟠 302 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 5 | `ultra.mishutkin.click` | `443` | 🟠 241 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
+| 6 | `193.39.15.115` | `443` | 🟢 55 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+| 7 | `stream.lovely.lat` | `443` | 🟢 70 мс | **[⚡ Подключить](https://t.me/proxy?server=stream.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174)** |
 <!-- LIVE:END -->
 
 > [!TIP]
