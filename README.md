@@ -132,6 +132,7 @@ API с проверкой из России (обновление каждые 2
 
 - 📢 **Telegram-канал:** [@vnespiska](https://t.me/+Si9-YyVaQTU1MjAy) — свежие прокси каждый час, новости блокировок
 - 🤖 **Бот:** [@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_github) — прокси за секунду, уведомления о новых, VPN
+- ⚪ **[Обход белых списков 2026](https://github.com/Chumbayoumba/obhod-belyh-spiskov)** — что работает при отключении мобильного интернета: прокси, подписки VLESS на GitHub, VPN
 - 🟢 **Сайт, который открывается без VPN:** [goida.win](https://goida.win/) — [прокси для Telegram](https://goida.win/proxy-telegram/), [что делать, если Telegram не работает](https://goida.win/telegram-ne-rabotaet/), [обход белых списков](https://goida.win/obhod-belyh-spiskov/)
 - 🔗 **[glushilok.net](https://glushilok.net/)** — бесплатный прокси + VPN, [гайды по VPN и обходу DPI](https://glushilok.net/guides/)
 - 🛡 **[vnespiska.win](https://vnespiska.win/proxy/)** — прокси, [WEB-прокси](https://vnespiska.win/webproxy/), инструкции по [Hiddify](https://vnespiska.win/hiddify-guide/), [Clash](https://vnespiska.win/clash-guide/), [VLESS](https://vnespiska.win/vless-setup/)
