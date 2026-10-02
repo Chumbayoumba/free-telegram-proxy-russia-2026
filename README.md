@@ -1,32 +1,44 @@
 # 🚀 Бесплатный прокси для Telegram (MTProto) — Россия 2026
 
-[![WEB Proxy](https://img.shields.io/badge/NEW-WEB%20Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
-[![Telegram Proxy](https://img.shields.io/badge/Telegram-Proxy-blue?logo=telegram)](tg://proxy?server=free.glushilok.net&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275)
-[![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://glushilok.net/)
-[![Status](https://img.shields.io/badge/status-ONLINE-success)](https://glushilok.net/)
-[![Updated](https://img.shields.io/badge/updated-2026-orange)](https://glushilok.net/)
+[![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Si9-YyVaQTU1MjAy)
+[![Proxies online](https://img.shields.io/badge/proxies_online-8-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
+[![Updated](https://img.shields.io/badge/updated-02.10.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
+[![WEB Proxy](https://img.shields.io/badge/NEW-WEB_Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
+[![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://t.me/+Si9-YyVaQTU1MjAy)
 
-> **Бесплатный рабочий MTProto-прокси для Telegram.** Обход блокировок, глушилок и белых списков в России. Работает на МТС, МегаФон, Tele2, Билайн, Yota, Ростелеком. Подключение в один клик, без регистрации и оплаты.
+> **Рабочие бесплатные MTProto-прокси для Telegram с проверкой из России.** Список обновляется автоматически каждые 2 часа: в нём только прокси, которые реально подключились с российского сервера. Обход блокировок, замедления и белых списков на МТС, МегаФон, Tele2 (T2), Билайн, Yota, Ростелеком. Подключение в один клик, без регистрации и оплаты.
 
-**Free working Telegram MTProto proxy for Russia 2026.** Bypass blocking, throttling and white-lists. One-tap connect, no registration, no payment.
+**Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
-> 🟢 **Сайт, который открывается без VPN:** [goida.win](https://goida.win/) — актуальный [прокси для Telegram](https://goida.win/proxy-telegram/), [что делать, если Telegram не работает](https://goida.win/telegram-ne-rabotaet/), [блокировка Telegram в 2026](https://goida.win/blokirovka-telegram/). Свежий адрес прокси — в канале [@vnespiska](https://t.me/vnespiska).
+<!-- UPDATED:START -->
+> 🟢 **Обновлено: 02.10.2026 05:58 МСК** · рабочих прокси: **8** · каждый проверен подключением с российского сервера
+<!-- UPDATED:END -->
 
 ---
 
-## ⚡ Подключиться в один клик
+## ⚡ Рабочие прокси для Telegram — подключить в один клик
 
-👉 **[НАЖМИ ЧТОБЫ ПОДКЛЮЧИТЬ ПРОКСИ](tg://proxy?server=free.glushilok.net&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275)** 👈
+Открой ссылку **⚡ Подключить** на телефоне или компьютере, где стоит Telegram, и нажми «Подключить прокси». Если первый не подключился — бери следующий.
 
-Или открой ссылку с телефона, где установлен Telegram:
+<!-- LIVE:START -->
+| # | Сервер | Порт | Пинг из РФ | Подключить |
+|---|--------|------|-----------|------------|
+| 1 | `94.139.247.202` | `443` | 🟢 4 мс | **[⚡ Подключить](https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d)** |
+| 2 | `132.243.231.76` | `443` | 🟢 30 мс | **[⚡ Подключить](https://t.me/proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275)** |
+| 3 | `ppl.vpnpplvpn.top` | `8443` | 🟡 147 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 4 | `edge.turboass.live` | `443` | 🟡 156 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 5 | `host.white-dns.info` | `443` | 🟠 206 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 6 | `90.156.216.188` | `8443` | 🟢 2 мс | **[⚡ Подключить](https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d)** |
+| 7 | `ultra.mishutkin.click` | `443` | 🟠 293 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
+| 8 | `193.39.15.115` | `443` | 🟢 56 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+<!-- LIVE:END -->
 
-```
-https://t.me/proxy?server=free.glushilok.net&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
-```
-
-```
-tg://proxy?server=free.glushilok.net&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
-```
+> [!TIP]
+> **Бесплатные прокси живут от пары часов до пары дней.** Чтобы не искать новый, когда этот перестанет работать:
+>
+> 📢 **[Подпишись на канал @vnespiska](https://t.me/+Si9-YyVaQTU1MjAy)** — новые прокси каждый час, каждый проверен из России, ~4 000 подписчиков.
+>
+> 🤖 **[Бот @vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_github)** — выдаст свежий прокси за секунду и сам напишет, когда появится новый.
 
 ---
 
@@ -49,74 +61,89 @@ tg://proxy?server=free.glushilok.net&port=9443&secret=ee5b1977cd65b2b90aeea9a53a
 tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 ```
 
-> ⚠️ Ссылку `t.me/webproxy?…` не открывай в браузере: сайт t.me пока не знает этот тип ссылок и покажет посторонний канал. На телефонах WEB-прокси пока нет — там используй MTProto выше.
+> ⚠️ Ссылку `t.me/webproxy?…` не открывай в браузере: сайт t.me пока не знает этот тип ссылок и покажет посторонний канал. На телефонах WEB-прокси пока нет — там используй MTProto из таблицы выше.
 
 ---
 
-## 📋 Параметры прокси (MTProto)
+## 📱 Как подключить прокси в Telegram
 
-| Параметр | Значение |
-|----------|----------|
-| **Сервер / Server** | `free.glushilok.net` |
-| **Порт / Port** | `9443` |
-| **Секрет / Secret** | `ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275` |
-| **Тип / Type** | `MTProto (mtproxy)` |
-| **Цена / Price** | `Бесплатно / Free` |
+**Android и iPhone.** Нажми **⚡ Подключить** в таблице → Telegram откроется сам → «Подключить прокси». Значок щита вверху экрана станет синим.
 
-**Машиночитаемый формат (host:port:secret):**
+**Компьютер (Windows, macOS, Linux).** Нажми **⚡ Подключить** → браузер предложит открыть Telegram Desktop → «Включить».
 
-```
-free.glushilok.net:9443:ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
-```
+**Вручную.** Настройки → Данные и память (на ПК: Продвинутые → Тип соединения) → Прокси → Добавить прокси → **MTProto** → впиши сервер, порт и секрет из списка [`proxies.txt`](./proxies.txt).
 
-Актуальный список также в форматах [`proxies.txt`](./proxies.txt) и [`mtproto.json`](./mtproto.json).
+Можно добавить сразу несколько прокси: Telegram сам переключится на тот, что работает.
 
 ---
 
-## 🛠 Как настроить прокси в Telegram вручную
+## 🛑 Telegram не работает даже с прокси?
 
-1. Открой Telegram → **Настройки** → **Данные и память** → **Настройки прокси**.
-2. Нажми **Добавить прокси** → **MTProto**.
-3. Введи данные:
-   - Сервер: `free.glushilok.net`
-   - Порт: `9443`
-   - Секрет: `ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275`
-4. Нажми **Подключиться** — значок прокси загорится, Telegram заработает.
+Прокси возвращает **только Telegram**. Если у тебя:
+
+- сайты грузятся как на 2G, не открываются YouTube, WhatsApp, Instagram;
+- мобильный интернет работает только для Госуслуг, банков и VK — это **белые списки**;
+- прокси подключается, но сообщения не уходят —
+
+значит оператор режет весь трафик, и поможет только VPN, который проходит белые списки и глушилки:
+
+👉 **[VPN в боте @vnespiskabot](https://t.me/vnespiskabot?start=promo_VNESPISKA_github_vpn)** — Базовый бесплатно навсегда, Премиум 239 ₽ по промокоду `VNESPISKA` (−20%, разовая оплата). Работает на телефоне, ПК и роутере.
+
+Проверить, что именно заблокировано у твоего оператора: **[glushilok.net/proverka](https://glushilok.net/proverka/)** (бесплатная проверка ТСПУ и DPI).
 
 ---
 
 ## ❓ Частые вопросы
 
-**Это бесплатно?** Да, прокси полностью бесплатный и без регистрации.
+**Это бесплатно?** Да. Прокси из таблицы бесплатные и без регистрации. Некоторые публичные прокси показывают закреплённый канал своего владельца — это нормально, его можно скрыть.
 
-**Telegram не работает / не подключается — поможет?** Да. MTProto-прокси маскирует трафик и восстанавливает доступ к Telegram при блокировках, замедлении и белых списках операторов.
+**Почему прокси перестал работать?** Роскомнадзор блокирует адреса прокси по одному, обычно за несколько часов или дней. Поэтому список здесь обновляется каждые 2 часа, а в [канале @vnespiska](https://t.me/+Si9-YyVaQTU1MjAy) новые выходят каждый час.
 
-**На каких операторах работает?** МТС, МегаФон, Tele2, Билайн, Yota, Ростелеком и другие в России.
+**Как вы проверяете прокси?** С российского сервера раз в 20 минут: реальное подключение по протоколу MTProto, как это делает Telegram. В таблицу попадают только те, что подключились. Пинг — задержка от российского сервера до прокси.
 
-**Как узнать, что именно заблокировано у меня?** Запусти бесплатную проверку блокировок (Чебурнет Коннект): 👉 [glushilok.net/proverka](https://glushilok.net/proverka/) — покажет, какие сервисы недоступны у твоего оператора и есть ли DPI/ТСПУ.
+**Работает на МТС, МегаФоне, Tele2, Билайне, Yota?** Да, проверка идёт из российской сети. Но если оператор включил **белые списки** (отключение мобильного интернета), не работает ни один прокси — нужен VPN, см. раздел выше.
 
-**Нужен полный VPN (YouTube, Instagram, WhatsApp, банки)?** Прокси возвращает только Telegram. Для всего интернета — VPN на VLESS Reality: 👉 [@vnespiskabot](https://t.me/vnespiskabot)
+**Прокси или VPN — что лучше для Telegram?** Прокси бесплатный и включается одной кнопкой, но работает только внутри Telegram. VPN защищает весь телефон и проходит белые списки. Для Telegram обычно хватает прокси; если его режут — VPN.
 
-**Нужен прокси/доступ к WhatsApp?** См. отдельную инструкцию: 👉 [glushilok.net/whatsapp-proxy](https://glushilok.net/whatsapp-proxy/)
+**Безопасно ли это? Прокси видит мои сообщения?** Нет. Telegram шифрует переписку до того, как она попадает на прокси, поэтому владелец прокси видит только зашифрованный трафик.
+
+**Прокси для iPhone работает?** Да, MTProto поддерживается в Telegram для iOS. WEB-прокси пока есть только в Telegram Desktop.
+
+**Telegram на компьютере тоже?** Да: MTProto из таблицы или новый [WEB-прокси](https://vnespiska.win/webproxy/), его сложнее заблокировать.
+
+**Нужен доступ к WhatsApp?** См. [glushilok.net/whatsapp-proxy](https://glushilok.net/whatsapp-proxy/).
+
+---
+
+## 📦 Машиночитаемые списки (обновляются каждые 2 часа)
+
+| Файл | Формат |
+|------|--------|
+| [`proxies.txt`](./proxies.txt) | `host:port:secret` |
+| [`proxy-list.txt`](./proxy-list.txt) | ссылки `tg://proxy` и `https://t.me/proxy` |
+| [`mtproto.json`](./mtproto.json) | JSON с пингом из РФ |
+| [`tg.json`](./tg.json) | JSON `server/port/secret` |
+
+API с проверкой из России (обновление каждые 20 минут): `https://vnespiska.win/api/proxies-ru.json`
 
 ---
 
 ## 🌐 Больше прокси и VPN
 
-- 🟢 **Зеркало без блокировки:** [goida.win](https://goida.win/) — прокси для Telegram и VPN; [обход белых списков](https://goida.win/obhod-belyh-spiskov/), [VPN от глушилок](https://goida.win/vpn-obhod-glushilok/), [Goida VPN: бесплатные конфиги](https://goida.win/goida-vpn/)
-- 🔗 **Сайт:** [glushilok.net](https://glushilok.net/) — бесплатный прокси + VPN
-- 🛡 **Проверка блокировок (Чебурнет Коннект):** [glushilok.net/proverka](https://glushilok.net/proverka/) — узнай, что заблокировано у тебя
-- 📱 **Прокси для WhatsApp:** [glushilok.net/whatsapp-proxy](https://glushilok.net/whatsapp-proxy/)
-- 📚 **Гайды по VPN и обходу DPI:** [glushilok.net/guides](https://glushilok.net/guides/) — Hiddify, V2RayNG, NekoBox, VLESS на роутере
-- 🤖 **VPN-бот:** [@vnespiskabot](https://t.me/vnespiskabot) — обход белых списков, YouTube, WhatsApp, Instagram
-- 📢 **Telegram-канал:** [@vnespiska](https://t.me/vnespiska) — свежие прокси и новости блокировок
+- 📢 **Telegram-канал:** [@vnespiska](https://t.me/+Si9-YyVaQTU1MjAy) — свежие прокси каждый час, новости блокировок
+- 🤖 **Бот:** [@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_github) — прокси за секунду, уведомления о новых, VPN
+- 🟢 **Сайт, который открывается без VPN:** [goida.win](https://goida.win/) — [прокси для Telegram](https://goida.win/proxy-telegram/), [что делать, если Telegram не работает](https://goida.win/telegram-ne-rabotaet/), [обход белых списков](https://goida.win/obhod-belyh-spiskov/)
+- 🔗 **[glushilok.net](https://glushilok.net/)** — бесплатный прокси + VPN, [гайды по VPN и обходу DPI](https://glushilok.net/guides/)
+- 🛡 **[vnespiska.win](https://vnespiska.win/proxy/)** — прокси, [WEB-прокси](https://vnespiska.win/webproxy/), инструкции по [Hiddify](https://vnespiska.win/hiddify-guide/), [Clash](https://vnespiska.win/clash-guide/), [VLESS](https://vnespiska.win/vless-setup/)
 
 ---
 
 ## 🔑 Ключевые слова
 
-бесплатный прокси телеграм, рабочий прокси telegram 2026, mtproto proxy, прокси для телеграм россия, обход блокировки телеграм, telegram не работает, прокси мтс мегафон tele2 билайн yota, free telegram proxy, working mtproto proxy russia, telegram proxy list, обход глушилок интернета, белые списки обход, telegram proxy server free, mtproxy, прокси сервер телеграм бесплатно, vpn для телеграм, telegram unblock russia 2026, goida vpn, goida.win, зеркало glushilok.net
+бесплатный прокси телеграм, рабочий прокси telegram 2026, mtproto прокси, прокси для телеграм россия, свежие прокси для телеграм, прокси телеграм сегодня, обход блокировки телеграм, telegram не работает, прокси мтс мегафон tele2 билайн yota, веб прокси телеграм, telegram webproxy, free telegram proxy, working mtproto proxy russia, telegram proxy list, mtproxy, белые списки обход, прокси сервер телеграм бесплатно
 
 ---
+
+⭐ **Поставь звезду репозиторию**, чтобы не потерять список — он обновляется автоматически.
 
 *Использование прокси и VPN для личных целей в России законно. Этот репозиторий не призывает к нарушению закона.*
