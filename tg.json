@@ -1,8 +1,8 @@
 [
   {
-    "server": "hyper.sosproxy.space",
-    "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "server": "ppl.vpnpplvpn.top",
+    "port": 8443,
+    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
     "type": "mtproto"
   },
   {
@@ -12,27 +12,15 @@
     "type": "mtproto"
   },
   {
-    "server": "ppl.vpnpplvpn.top",
-    "port": 8443,
-    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-    "type": "mtproto"
-  },
-  {
     "server": "ultra.mishutkin.click",
     "port": 443,
     "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   },
   {
-    "server": "live.lovely.lat",
-    "port": 443,
-    "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174",
-    "type": "mtproto"
-  },
-  {
-    "server": "stream.lovely.lat",
-    "port": 443,
-    "secret": "ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
+    "server": "90.156.216.188",
+    "port": 8443,
+    "secret": "ddee676f6f676c652e636f6de21ff0db1d",
     "type": "mtproto"
   }
 ]
