@@ -1,5 +1,11 @@
 # 🚀 Бесплатный прокси для Telegram (MTProto) — Россия 2026
 
+<!-- GIVEAWAY:START -->
+<a href="https://t.me/vnespiskabot?start=gw_github"><img src="https://vnespiska.win/gw/img/giveaway-4x1.webp" alt="Розыгрыш VPN ВНЕ СПИСКА × Geodema: 3 × 90 дней, 7 × 30 дней, 30 скидок 20%" width="100%"></a>
+
+> 🎁 **Розыгрыш до 10 октября 20:00 МСК:** 3 подписки на 90 дней, 7 на 30 дней и 30 скидок 20%. Участие бесплатное, через бота: **[участвовать →](https://t.me/vnespiskabot?start=gw_github)** · +1 билет за каждого друга
+<!-- GIVEAWAY:END -->
+
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Si9-YyVaQTU1MjAy)
 [![Proxies online](https://img.shields.io/badge/proxies_online-7-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![Updated](https://img.shields.io/badge/updated-02.10.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
