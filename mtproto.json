@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T13:21:25+00:00",
+  "updated": "2026-10-03T17:41:11+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -13,7 +13,7 @@
       "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 86,
+      "ping_ms": 216,
       "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
     },
     {
@@ -23,38 +23,8 @@
       "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 115,
+      "ping_ms": 313,
       "tg_url": "https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4"
-    },
-    {
-      "server": "ultra.mishutkin.click",
-      "host": "ultra.mishutkin.click",
-      "port": 443,
-      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 110,
-      "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
-    },
-    {
-      "server": "live.lovely.lat",
-      "host": "live.lovely.lat",
-      "port": 443,
-      "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 219,
-      "tg_url": "https://t.me/proxy?server=live.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174"
-    },
-    {
-      "server": "stream.lovely.lat",
-      "host": "stream.lovely.lat",
-      "port": 443,
-      "secret": "ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 73,
-      "tg_url": "https://t.me/proxy?server=stream.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174"
     }
   ]
 }

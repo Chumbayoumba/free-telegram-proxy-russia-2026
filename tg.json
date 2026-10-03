@@ -10,23 +10,5 @@
     "port": 443,
     "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
     "type": "mtproto"
-  },
-  {
-    "server": "ultra.mishutkin.click",
-    "port": 443,
-    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
-    "type": "mtproto"
-  },
-  {
-    "server": "live.lovely.lat",
-    "port": 443,
-    "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174",
-    "type": "mtproto"
-  },
-  {
-    "server": "stream.lovely.lat",
-    "port": 443,
-    "secret": "ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
-    "type": "mtproto"
   }
 ]
