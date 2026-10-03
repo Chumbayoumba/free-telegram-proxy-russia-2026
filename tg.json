@@ -6,6 +6,12 @@
     "type": "mtproto"
   },
   {
+    "server": "host.white-dns.info",
+    "port": 443,
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+    "type": "mtproto"
+  },
+  {
     "server": "ultra.mishutkin.click",
     "port": 443,
     "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
@@ -18,21 +24,9 @@
     "type": "mtproto"
   },
   {
-    "server": "cluster.mtproxy.cc",
-    "port": 443,
-    "secret": "eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363",
-    "type": "mtproto"
-  },
-  {
     "server": "stream.lovely.lat",
     "port": 443,
     "secret": "ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
-    "type": "mtproto"
-  },
-  {
-    "server": "hyper.sosproxy.space",
-    "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   }
 ]
