@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T22:01:33+00:00",
+  "updated": "2026-10-03T01:01:35+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,34 +7,14 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
-      "server": "ppl.vpnpplvpn.top",
-      "host": "ppl.vpnpplvpn.top",
-      "port": 8443,
-      "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 7,
-      "tg_url": "https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87"
-    },
-    {
-      "server": "edge.turboass.live",
-      "host": "edge.turboass.live",
+      "server": "193.39.15.115",
+      "host": "193.39.15.115",
       "port": 443,
-      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "secret": "dd585256032fd8a78a0602ddd90f9c981f",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 162,
-      "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
-    },
-    {
-      "server": "ultra.mishutkin.click",
-      "host": "ultra.mishutkin.click",
-      "port": 443,
-      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 135,
-      "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+      "ping_ms": 63,
+      "tg_url": "https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f"
     },
     {
       "server": "90.156.216.188",
@@ -43,7 +23,7 @@
       "secret": "ddee676f6f676c652e636f6de21ff0db1d",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 3,
+      "ping_ms": 4,
       "tg_url": "https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d"
     }
   ]

@@ -1,8 +1,6 @@
 # Free Telegram MTProto Proxy List 2026 — Russia
 # Checked from a Russian server. Format: host:port:secret
-# Updated: 2026-10-02T22:01:33+00:00
+# Updated: 2026-10-03T01:01:35+00:00
 # Fresh proxies every hour: https://t.me/+Si9-YyVaQTU1MjAy
-ppl.vpnpplvpn.top:8443:ddbd7949ea22934a3af773233bd1e6cd87
-edge.turboass.live:443:ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
-ultra.mishutkin.click:443:eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
+193.39.15.115:443:dd585256032fd8a78a0602ddd90f9c981f
 90.156.216.188:8443:ddee676f6f676c652e636f6de21ff0db1d
