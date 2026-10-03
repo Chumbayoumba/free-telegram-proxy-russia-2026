@@ -7,8 +7,8 @@
 <!-- GIVEAWAY:END -->
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Si9-YyVaQTU1MjAy)
-[![Proxies online](https://img.shields.io/badge/proxies_online-2-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
-[![Updated](https://img.shields.io/badge/updated-03.10.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
+[![Proxies online](https://img.shields.io/badge/proxies_online-3-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
+[![Updated](https://img.shields.io/badge/updated-04.10.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![WEB Proxy](https://img.shields.io/badge/NEW-WEB_Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
 [![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://t.me/+Si9-YyVaQTU1MjAy)
 
@@ -17,7 +17,7 @@
 **Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 03.10.2026 20:41 МСК** · рабочих прокси: **2** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 04.10.2026 00:21 МСК** · рабочих прокси: **3** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.1+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -32,8 +32,9 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `edge.turboass.live` | `443` | 🟠 216 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 2 | `host.white-dns.info` | `443` | 🟠 313 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 1 | `host.white-dns.info` | `443` | 🟢 56 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 2 | `edge.turboass.live` | `443` | 🟡 89 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 3 | `hyper.sosproxy.space` | `443` | 🟡 159 мс | **[⚡ Подключить](https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d)** |
 <!-- LIVE:END -->
 
 > [!TIP]
