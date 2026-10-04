@@ -18,9 +18,9 @@
     "type": "mtproto"
   },
   {
-    "server": "stream.lovely.lat",
+    "server": "cluster.mtproxy.cc",
     "port": 443,
-    "secret": "ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
+    "secret": "eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363",
     "type": "mtproto"
   },
   {
