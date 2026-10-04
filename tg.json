@@ -12,9 +12,9 @@
     "type": "mtproto"
   },
   {
-    "server": "193.39.15.115",
+    "server": "cluster.mtproxy.cc",
     "port": 443,
-    "secret": "dd585256032fd8a78a0602ddd90f9c981f",
+    "secret": "eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363",
     "type": "mtproto"
   }
 ]

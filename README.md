@@ -17,7 +17,7 @@
 **Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 04.10.2026 18:21 МСК** · рабочих прокси: **3** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 04.10.2026 22:21 МСК** · рабочих прокси: **3** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.1+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -32,9 +32,9 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `edge.turboass.live` | `443` | 🟢 79 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 2 | `host.white-dns.info` | `443` | 🟡 93 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 3 | `193.39.15.115` | `443` | 🟢 58 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+| 1 | `edge.turboass.live` | `443` | 🟢 55 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 2 | `host.white-dns.info` | `443` | 🟡 101 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 3 | `cluster.mtproxy.cc` | `443` | 🟢 66 мс | **[⚡ Подключить](https://t.me/proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363)** |
 <!-- LIVE:END -->
 
 > [!TIP]
