@@ -1,32 +1,20 @@
 [
   {
-    "server": "host.white-dns.info",
-    "port": 443,
-    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
-    "type": "mtproto"
-  },
-  {
     "server": "edge.turboass.live",
     "port": 443,
     "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
     "type": "mtproto"
   },
   {
-    "server": "live.lovely.lat",
+    "server": "host.white-dns.info",
     "port": 443,
-    "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174",
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
     "type": "mtproto"
   },
   {
-    "server": "cluster.mtproxy.cc",
+    "server": "193.39.15.115",
     "port": 443,
-    "secret": "eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363",
-    "type": "mtproto"
-  },
-  {
-    "server": "hyper.sosproxy.space",
-    "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "secret": "dd585256032fd8a78a0602ddd90f9c981f",
     "type": "mtproto"
   }
 ]
