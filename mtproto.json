@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:41:15+00:00",
+  "updated": "2026-10-05T22:41:25+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,14 +7,14 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
-      "server": "37.228.117.186",
-      "host": "37.228.117.186",
+      "server": "edge.turboass.live",
+      "host": "edge.turboass.live",
       "port": 443,
-      "secret": "dde4af9a1e7e9f714fbee7d73f2ee48542",
+      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 3,
-      "tg_url": "https://t.me/proxy?server=37.228.117.186&port=443&secret=dde4af9a1e7e9f714fbee7d73f2ee48542"
+      "ping_ms": 89,
+      "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
     }
   ]
 }
