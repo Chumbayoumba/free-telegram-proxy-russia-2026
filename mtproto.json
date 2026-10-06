@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:21:11+00:00",
+  "updated": "2026-10-06T15:01:31+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -13,8 +13,28 @@
       "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 158,
+      "ping_ms": 176,
       "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
+    },
+    {
+      "server": "cluster.mtproxy.cc",
+      "host": "cluster.mtproxy.cc",
+      "port": 443,
+      "secret": "eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 174,
+      "tg_url": "https://t.me/proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363"
+    },
+    {
+      "server": "flow.mtproxy.cc",
+      "host": "flow.mtproxy.cc",
+      "port": 443,
+      "secret": "eeef7017f26c9ecb71ed8d760999294318666c6f772e6d7470726f78792e6363",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 94,
+      "tg_url": "https://t.me/proxy?server=flow.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318666c6f772e6d7470726f78792e6363"
     }
   ]
 }
