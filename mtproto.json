@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T22:41:25+00:00",
+  "updated": "2026-10-06T06:21:11+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -13,7 +13,7 @@
       "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 89,
+      "ping_ms": 158,
       "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
     }
   ]
