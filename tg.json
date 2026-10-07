@@ -1,14 +1,14 @@
 [
   {
-    "server": "ultra.mishutkin.click",
-    "port": 443,
-    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
-    "type": "mtproto"
-  },
-  {
     "server": "edge.turboass.live",
     "port": 443,
     "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
+    "server": "ultra.mishutkin.click",
+    "port": 443,
+    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   }
 ]
