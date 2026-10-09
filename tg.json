@@ -1,32 +1,14 @@
 [
   {
+    "server": "212.134.174.23",
+    "port": 45332,
+    "secret": "eea82d68aab6c4f875b23af6936f4a53847777772e62696e672e636f6d",
+    "type": "mtproto"
+  },
+  {
     "server": "209.141.53.16",
     "port": 8443,
     "secret": "ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d",
-    "type": "mtproto"
-  },
-  {
-    "server": "day.vtoroe-dyhanie.space",
-    "port": 443,
-    "secret": "ee2b4b155565df4307acfb18b632c3c90079612e7275",
-    "type": "mtproto"
-  },
-  {
-    "server": "edge.turboass.live",
-    "port": 443,
-    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-    "type": "mtproto"
-  },
-  {
-    "server": "103.104.112.8",
-    "port": 5222,
-    "secret": "eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d",
-    "type": "mtproto"
-  },
-  {
-    "server": "dns.dnsrender.info",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
@@ -36,27 +18,33 @@
     "type": "mtproto"
   },
   {
-    "server": "yandex.ru.nclick.shop",
+    "server": "edge.turboass.live",
     "port": 443,
-    "secret": "ee78ca074858b8c4b20ae5774a23a5834774696d657765622e636f6d",
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
     "type": "mtproto"
   },
   {
-    "server": "72.56.25.212",
-    "port": 443,
-    "secret": "ee7d026761b388c46302df84b4b812aef0706574726f766963682e7275",
+    "server": "ex.nine11.art",
+    "port": 8443,
+    "secret": "ddb868deed7e320d1c82ded5659fa673f2",
     "type": "mtproto"
   },
   {
-    "server": "pub.ultra-fast.cc",
+    "server": "eng.nine11.art",
     "port": 443,
-    "secret": "ee1b52048d6ed55deed67c31a7a99ad2cb7075622e756c7472612d666173742e6363",
+    "secret": "ddf1c77aa13b6f3c7ef18e29ab40e785da",
     "type": "mtproto"
   },
   {
-    "server": "narniya.net",
+    "server": "web-bell.ngstream.top",
     "port": 443,
-    "secret": "eec63f2ff277626b5e1125d8898fa6b02d676f6f676c652e636f6d",
+    "secret": "dd8b4cb8f0a1057a08a38a9b69fecbd55b",
+    "type": "mtproto"
+  },
+  {
+    "server": "lastochka.cloud",
+    "port": 443,
+    "secret": "ee808a439fd06ff8f421fbd35d65a445166c6173746f63686b612e636c6f7564",
     "type": "mtproto"
   }
 ]
