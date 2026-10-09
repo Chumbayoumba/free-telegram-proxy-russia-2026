@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:50:52+00:00",
+  "updated": "2026-10-09T00:20:42+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,84 +7,64 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
+      "server": "dns.dnsrender.info",
+      "host": "dns.dnsrender.info",
+      "port": 443,
+      "secret": "ee79e344818749bd7ac519130220c25d09",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 51,
+      "tg_url": "https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09"
+    },
+    {
       "server": "edge.turboass.live",
       "host": "edge.turboass.live",
       "port": 443,
       "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 49,
+      "ping_ms": 180,
       "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
     },
     {
-      "server": "day.vtoroe-dyhanie.space",
-      "host": "day.vtoroe-dyhanie.space",
+      "server": "host.white-dns.info",
+      "host": "host.white-dns.info",
       "port": 443,
-      "secret": "ee2b4b155565df4307acfb18b632c3c90079612e7275",
+      "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 48,
-      "tg_url": "https://t.me/proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c90079612e7275"
+      "ping_ms": 160,
+      "tg_url": "https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4"
     },
     {
-      "server": "156.239.251.34",
-      "host": "156.239.251.34",
-      "port": 8443,
-      "secret": "eea93c1961dbfa8befd6056cdd954f5f8b7777772e62696e672e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 179,
-      "tg_url": "https://t.me/proxy?server=156.239.251.34&port=8443&secret=eea93c1961dbfa8befd6056cdd954f5f8b7777772e62696e672e636f6d"
-    },
-    {
-      "server": "209.141.53.16",
-      "host": "209.141.53.16",
-      "port": 8443,
-      "secret": "ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 165,
-      "tg_url": "https://t.me/proxy?server=209.141.53.16&port=8443&secret=ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d"
-    },
-    {
-      "server": "narniya.net",
-      "host": "narniya.net",
+      "server": "ultra.mishutkin.click",
+      "host": "ultra.mishutkin.click",
       "port": 443,
-      "secret": "eec63f2ff277626b5e1125d8898fa6b02d676f6f676c652e636f6d",
+      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 47,
-      "tg_url": "https://t.me/proxy?server=narniya.net&port=443&secret=eec63f2ff277626b5e1125d8898fa6b02d676f6f676c652e636f6d"
+      "ping_ms": 68,
+      "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
     },
     {
-      "server": "103.104.112.8",
-      "host": "103.104.112.8",
-      "port": 5222,
-      "secret": "eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d",
+      "server": "77.90.183.67",
+      "host": "77.90.183.67",
+      "port": 443,
+      "secret": "dd10db98efe3ca23e84ff2c28b3e99e2f1",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 217,
-      "tg_url": "https://t.me/proxy?server=103.104.112.8&port=5222&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d"
+      "ping_ms": 50,
+      "tg_url": "https://t.me/proxy?server=77.90.183.67&port=443&secret=dd10db98efe3ca23e84ff2c28b3e99e2f1"
     },
     {
-      "server": "13.143.132.113",
-      "host": "13.143.132.113",
-      "port": 2083,
-      "secret": "ee0314a91166489d1779b1515c34eb2a3e7777772e636c6f7564666c6172652e636f6d",
+      "server": "host.dnsrender.info",
+      "host": "host.dnsrender.info",
+      "port": 443,
+      "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 47,
-      "tg_url": "https://t.me/proxy?server=13.143.132.113&port=2083&secret=ee0314a91166489d1779b1515c34eb2a3e7777772e636c6f7564666c6172652e636f6d"
-    },
-    {
-      "server": "103.151.186.22",
-      "host": "103.151.186.22",
-      "port": 8443,
-      "secret": "eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 225,
-      "tg_url": "https://t.me/proxy?server=103.151.186.22&port=8443&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d"
+      "ping_ms": 99,
+      "tg_url": "https://t.me/proxy?server=host.dnsrender.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4"
     }
   ]
 }
