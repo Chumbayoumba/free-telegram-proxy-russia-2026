@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T05:45:30+00:00",
+  "updated": "2026-10-10T07:29:42+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,104 +7,14 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
-      "server": "dns.dnsrender.info",
-      "host": "dns.dnsrender.info",
+      "server": "web-bell.ngstream.top",
+      "host": "web-bell.ngstream.top",
       "port": 443,
-      "secret": "ee79e344818749bd7ac519130220c25d09",
+      "secret": "dd8b4cb8f0a1057a08a38a9b69fecbd55b",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 57,
-      "tg_url": "https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "server": "209.141.53.16",
-      "host": "209.141.53.16",
-      "port": 8443,
-      "secret": "ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 168,
-      "tg_url": "https://t.me/proxy?server=209.141.53.16&port=8443&secret=ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d"
-    },
-    {
-      "server": "edge.tidalcache.com",
-      "host": "edge.tidalcache.com",
-      "port": 443,
-      "secret": "ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 44,
-      "tg_url": "https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275"
-    },
-    {
-      "server": "38.76.217.171",
-      "host": "38.76.217.171",
-      "port": 443,
-      "secret": "ee154fc629b5bcafe611bdb3c0cb58d2887777772e6d6963726f736f66742e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 233,
-      "tg_url": "https://t.me/proxy?server=38.76.217.171&port=443&secret=ee154fc629b5bcafe611bdb3c0cb58d2887777772e6d6963726f736f66742e636f6d"
-    },
-    {
-      "server": "edge.turboass.live",
-      "host": "edge.turboass.live",
-      "port": 443,
-      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 83,
-      "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
-    },
-    {
-      "server": "host.white-dns.info",
-      "host": "host.white-dns.info",
-      "port": 443,
-      "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 183,
-      "tg_url": "https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4"
-    },
-    {
-      "server": "ex.nine11.art",
-      "host": "ex.nine11.art",
-      "port": 8443,
-      "secret": "ddb868deed7e320d1c82ded5659fa673f2",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 76,
-      "tg_url": "https://t.me/proxy?server=ex.nine11.art&port=8443&secret=ddb868deed7e320d1c82ded5659fa673f2"
-    },
-    {
-      "server": "eng.nine11.art",
-      "host": "eng.nine11.art",
-      "port": 443,
-      "secret": "ddf1c77aa13b6f3c7ef18e29ab40e785da",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 230,
-      "tg_url": "https://t.me/proxy?server=eng.nine11.art&port=443&secret=ddf1c77aa13b6f3c7ef18e29ab40e785da"
-    },
-    {
-      "server": "quiet-wolf.ngstream.top",
-      "host": "quiet-wolf.ngstream.top",
-      "port": 443,
-      "secret": "dd0f0b9990c04aada86e0614b29d099407",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 27,
-      "tg_url": "https://t.me/proxy?server=quiet-wolf.ngstream.top&port=443&secret=dd0f0b9990c04aada86e0614b29d099407"
-    },
-    {
-      "server": "one.dedconnect.cc",
-      "host": "one.dedconnect.cc",
-      "port": 443,
-      "secret": "ee2c16e567cf67a859e3fed5ff134e79226f6e652e646564636f6e6e6563742e6363",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 43,
-      "tg_url": "https://t.me/proxy?server=one.dedconnect.cc&port=443&secret=ee2c16e567cf67a859e3fed5ff134e79226f6e652e646564636f6e6e6563742e6363"
+      "ping_ms": 24,
+      "tg_url": "https://t.me/proxy?server=web-bell.ngstream.top&port=443&secret=dd8b4cb8f0a1057a08a38a9b69fecbd55b"
     }
   ]
 }

@@ -11,7 +11,7 @@
 <!-- GIVEAWAY:END -->
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Si9-YyVaQTU1MjAy)
-[![Proxies online](https://img.shields.io/badge/proxies_online-10-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
+[![Proxies online](https://img.shields.io/badge/proxies_online-1-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![Updated](https://img.shields.io/badge/updated-10.10.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![WEB Proxy](https://img.shields.io/badge/NEW-WEB_Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
 [![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://t.me/+Si9-YyVaQTU1MjAy)
@@ -21,7 +21,7 @@
 **Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 10.10.2026 08:45 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 10.10.2026 10:29 МСК** · рабочих прокси: **1** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.2+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -36,16 +36,7 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `dns.dnsrender.info` | `443` | 🟢 57 мс | **[⚡ Подключить](https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 2 | `209.141.53.16` | `8443` | 🟡 168 мс | **[⚡ Подключить](https://t.me/proxy?server=209.141.53.16&port=8443&secret=ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d)** |
-| 3 | `edge.tidalcache.com` | `443` | 🟢 44 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275)** |
-| 4 | `38.76.217.171` | `443` | 🟠 233 мс | **[⚡ Подключить](https://t.me/proxy?server=38.76.217.171&port=443&secret=ee154fc629b5bcafe611bdb3c0cb58d2887777772e6d6963726f736f66742e636f6d)** |
-| 5 | `edge.turboass.live` | `443` | 🟡 83 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 6 | `host.white-dns.info` | `443` | 🟡 183 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 7 | `ex.nine11.art` | `8443` | 🟢 76 мс | **[⚡ Подключить](https://t.me/proxy?server=ex.nine11.art&port=8443&secret=ddb868deed7e320d1c82ded5659fa673f2)** |
-| 8 | `eng.nine11.art` | `443` | 🟠 230 мс | **[⚡ Подключить](https://t.me/proxy?server=eng.nine11.art&port=443&secret=ddf1c77aa13b6f3c7ef18e29ab40e785da)** |
-| 9 | `quiet-wolf.ngstream.top` | `443` | 🟢 27 мс | **[⚡ Подключить](https://t.me/proxy?server=quiet-wolf.ngstream.top&port=443&secret=dd0f0b9990c04aada86e0614b29d099407)** |
-| 10 | `one.dedconnect.cc` | `443` | 🟢 43 мс | **[⚡ Подключить](https://t.me/proxy?server=one.dedconnect.cc&port=443&secret=ee2c16e567cf67a859e3fed5ff134e79226f6e652e646564636f6e6e6563742e6363)** |
+| 1 | `web-bell.ngstream.top` | `443` | 🟢 24 мс | **[⚡ Подключить](https://t.me/proxy?server=web-bell.ngstream.top&port=443&secret=dd8b4cb8f0a1057a08a38a9b69fecbd55b)** |
 <!-- LIVE:END -->
 
 > [!TIP]
