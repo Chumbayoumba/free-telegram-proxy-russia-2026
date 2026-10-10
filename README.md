@@ -1,15 +1,5 @@
 # 🚀 Бесплатный прокси для Telegram (MTProto) — Россия 2026
 
-<!-- GIVEAWAY:START -->
-<a href="https://t.me/vnespiskabot?start=gw_github"><img src="https://vnespiska.win/gw/img/giveaway-4x1.webp" alt="Розыгрыш VPN ВНЕ СПИСКА × Geodema: 3 × 90 дней, 7 × 30 дней, 30 скидок 20%" width="100%"></a>
-
-> 🔥 **Последний шанс: итоги розыгрыша VPN 10 октября в 20:00 МСК** &nbsp; [![до итогов](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvnespiska.win%2Fgw%2Fstats.json&query=%24.left&label=%E2%8F%B3%20%D0%B4%D0%BE%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2&color=e53935&cacheSeconds=300)](https://t.me/vnespiskabot?start=gw_github) [![участвуют](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvnespiska.win%2Fgw%2Fstats.json&query=%24.participants&label=%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%82&color=1a8be8&cacheSeconds=300)](https://t.me/vnespiskabot?start=gw_github)
->
-> 3 подписки на 90 дней, 7 на 30 дней и 30 скидок 20% — всего 40 призов, по одному на человека, так что шансы высокие. Подписки в призах — 16 месяцев Premium, по обычной цене 299 ₽ в месяц это 4 784 ₽. Участие бесплатное и займёт минуту: **[успеть поучаствовать →](https://t.me/vnespiskabot?start=gw_github)** · +1 билет за каждого друга
->
-> 💡 Уже есть подписка Geodema? Выигранные дни добавятся к ней.
-<!-- GIVEAWAY:END -->
-
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Si9-YyVaQTU1MjAy)
 [![Proxies online](https://img.shields.io/badge/proxies_online-1-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![Updated](https://img.shields.io/badge/updated-10.10.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
