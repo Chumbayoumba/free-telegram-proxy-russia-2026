@@ -1,8 +1,26 @@
 [
   {
-    "server": "edge.tidalcache.com",
+    "server": "31.130.133.59",
     "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275",
+    "secret": "ee79612e72754283dd67718731403044",
+    "type": "mtproto"
+  },
+  {
+    "server": "94.142.136.156",
+    "port": 9443,
+    "secret": "ee30d331a3d09c462079cfcfc541ef8684706574726f766963682e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "edge.turboass.live",
+    "port": 443,
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
+    "server": "quiet-wolf.ngstream.top",
+    "port": 443,
+    "secret": "dd0f0b9990c04aada86e0614b29d099407",
     "type": "mtproto"
   },
   {
@@ -18,15 +36,15 @@
     "type": "mtproto"
   },
   {
-    "server": "31.130.133.59",
+    "server": "edge.tidalcache.com",
     "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
+    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275",
     "type": "mtproto"
   },
   {
-    "server": "94.142.136.156",
-    "port": 9443,
-    "secret": "ee30d331a3d09c462079cfcfc541ef8684706574726f766963682e7275",
+    "server": "dns.dnsrender.info",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
@@ -39,24 +57,6 @@
     "server": "31.77.152.48",
     "port": 443,
     "secret": "ee6164732e78352e727530ac46ef4d53",
-    "type": "mtproto"
-  },
-  {
-    "server": "206.1.96.162",
-    "port": 8443,
-    "secret": "dd5e3d18838ba48f33f2863d6c564e1891",
-    "type": "mtproto"
-  },
-  {
-    "server": "206.1.96.162",
-    "port": 2087,
-    "secret": "ddaddf578e7b05193b840738e7a9408cc5",
-    "type": "mtproto"
-  },
-  {
-    "server": "206.1.96.162",
-    "port": 2053,
-    "secret": "dd2466f17560115e88f10acd6f56afe3c4",
     "type": "mtproto"
   }
 ]
