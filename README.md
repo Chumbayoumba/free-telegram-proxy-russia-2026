@@ -14,7 +14,7 @@
 > 🟢 **Обновлено: 11.10.2026 21:49 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
-> 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.2+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
+> 🖥 **Для ПК и Android — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
 
 
 ---
@@ -136,6 +136,7 @@ API с проверкой из России (обновление каждые 1
 ## 🌐 Больше прокси и VPN
 
 - 📢 **Telegram-канал:** [@vnespiska](https://t.me/+Si9-YyVaQTU1MjAy) — свежие прокси каждый час, новости блокировок
+- 📰 **Живые списки на Telegraph** (обновляются каждые 2 часа): [рабочие прокси сегодня](https://telegra.ph/Besplatnyj-proksi-dlya-Telegram--rabochie-segodnya-provereny-iz-Rossii-10-11), [MTProto-прокси 2026](https://telegra.ph/MTProto-proksi-dlya-Telegram-2026-svezhij-spisok-s-proverkoj-iz-Rossii-10-11), [WEB-прокси для ПК и Android](https://telegra.ph/WEB-proksi-dlya-Telegram-besplatnyj-dlya-PK-i-Android-10-11), [не работает Telegram](https://telegra.ph/Ne-rabotaet-Telegram-proksi-kotoryj-podklyuchaetsya-v-odin-klik-10-11)
 - 🤖 **Бот:** [@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_github) — прокси за секунду, уведомления о новых, VPN
 - ⚪ **[Обход белых списков 2026](https://github.com/Chumbayoumba/obhod-belyh-spiskov)** — что работает при отключении мобильного интернета: прокси, подписки VLESS на GitHub, VPN
 - 🟢 **Сайт, который открывается без VPN:** [goida.win](https://goida.win/) — [прокси для Telegram](https://goida.win/proxy-telegram/), [что делать, если Telegram не работает](https://goida.win/telegram-ne-rabotaet/), [обход белых списков](https://goida.win/obhod-belyh-spiskov/)
