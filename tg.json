@@ -1,20 +1,26 @@
 [
   {
+    "server": "mkima.davay.click",
+    "port": 443,
+    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
+    "type": "mtproto"
+  },
+  {
     "server": "176.98.182.60",
     "port": 7443,
     "secret": "ee2d954feb566b43c70d4b228e1fc0336b74672e6c756d61787664732e6f7267",
     "type": "mtproto"
   },
   {
-    "server": "poppy-elm.velvetoak.work",
+    "server": "echo.lite64.xyz",
     "port": 443,
-    "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
+    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
     "type": "mtproto"
   },
   {
-    "server": "ember.lite64.xyz",
+    "server": "poppy-elm.velvetoak.work",
     "port": 443,
-    "secret": "eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465",
+    "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
     "type": "mtproto"
   },
   {
@@ -36,27 +42,21 @@
     "type": "mtproto"
   },
   {
-    "server": "spb-ee.spiderservice.vip",
+    "server": "granite-monarch.velvetoak.work",
     "port": 443,
-    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
+    "secret": "eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465",
     "type": "mtproto"
   },
   {
-    "server": "edge.tidalcache.com",
+    "server": "ultra.mishutkin.click",
     "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   },
   {
-    "server": "mkima.davay.click",
+    "server": "condor-granite.driftquill.click",
     "port": 443,
-    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-    "type": "mtproto"
-  },
-  {
-    "server": "edge.turboass.live",
-    "port": 443,
-    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   }
 ]
