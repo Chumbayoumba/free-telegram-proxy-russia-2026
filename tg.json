@@ -18,12 +18,6 @@
     "type": "mtproto"
   },
   {
-    "server": "mkima.davay.click",
-    "port": 443,
-    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-    "type": "mtproto"
-  },
-  {
     "server": "176.98.182.60",
     "port": 7443,
     "secret": "ee2d954feb566b43c70d4b228e1fc0336b74672e6c756d61787664732e6f7267",
@@ -33,6 +27,12 @@
     "server": "echo.lite64.xyz",
     "port": 443,
     "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "condor-granite.driftquill.click",
+    "port": 443,
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   },
   {
@@ -48,15 +48,15 @@
     "type": "mtproto"
   },
   {
-    "server": "31.130.133.59",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
-    "server": "49.12.217.239",
-    "port": 8443,
-    "secret": "ee1603010200010001fc030486e24c3add",
+    "server": "31.130.133.59",
+    "port": 443,
+    "secret": "ee79612e72754283dd67718731403044",
     "type": "mtproto"
   }
 ]
