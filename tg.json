@@ -42,9 +42,9 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "poppy-elm.velvetoak.work",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+    "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
     "type": "mtproto"
   },
   {
