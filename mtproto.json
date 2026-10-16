@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:58:11+00:00",
+  "updated": "2026-10-16T21:13:01+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,13 +7,33 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
+      "server": "condor-granite.velvetoak.work",
+      "host": "condor-granite.velvetoak.work",
+      "port": 443,
+      "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 90,
+      "tg_url": "https://t.me/proxy?server=condor-granite.velvetoak.work&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465"
+    },
+    {
+      "server": "condor-granite.driftquill.click",
+      "host": "condor-granite.driftquill.click",
+      "port": 443,
+      "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 71,
+      "tg_url": "https://t.me/proxy?server=condor-granite.driftquill.click&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465"
+    },
+    {
       "server": "forest.lite64.xyz",
       "host": "forest.lite64.xyz",
       "port": 443,
       "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 72,
+      "ping_ms": 183,
       "tg_url": "https://t.me/proxy?server=forest.lite64.xyz&port=443&secret=ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465"
     },
     {
@@ -23,7 +43,7 @@
       "secret": "eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 74,
+      "ping_ms": 91,
       "tg_url": "https://t.me/proxy?server=granite-monarch.velvetoak.work&port=443&secret=eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465"
     },
     {
@@ -33,48 +53,8 @@
       "secret": "eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 92,
+      "ping_ms": 73,
       "tg_url": "https://t.me/proxy?server=ember.lite64.xyz&port=443&secret=eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465"
-    },
-    {
-      "server": "31.130.133.59",
-      "host": "31.130.133.59",
-      "port": 443,
-      "secret": "ee79612e72754283dd67718731403044",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 46,
-      "tg_url": "https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044"
-    },
-    {
-      "server": "hyper.sosproxy.space",
-      "host": "hyper.sosproxy.space",
-      "port": 443,
-      "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 94,
-      "tg_url": "https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d"
-    },
-    {
-      "server": "poppy-elm.velvetoak.work",
-      "host": "poppy-elm.velvetoak.work",
-      "port": 443,
-      "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 67,
-      "tg_url": "https://t.me/proxy?server=poppy-elm.velvetoak.work&port=443&secret=eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465"
-    },
-    {
-      "server": "edge.tidalcache.com",
-      "host": "edge.tidalcache.com",
-      "port": 443,
-      "secret": "ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 49,
-      "tg_url": "https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.co.uk",
@@ -83,18 +63,28 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 48,
+      "ping_ms": 63,
       "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
-      "server": "condor-granite.driftquill.click",
-      "host": "condor-granite.driftquill.click",
+      "server": "31.130.133.59",
+      "host": "31.130.133.59",
       "port": 443,
-      "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+      "secret": "ee79612e72754283dd67718731403044",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 68,
-      "tg_url": "https://t.me/proxy?server=condor-granite.driftquill.click&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465"
+      "ping_ms": 48,
+      "tg_url": "https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044"
+    },
+    {
+      "server": "49.12.217.239",
+      "host": "49.12.217.239",
+      "port": 8443,
+      "secret": "ee1603010200010001fc030486e24c3add",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 46,
+      "tg_url": "https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add"
     },
     {
       "server": "ultra.mishutkin.click",
@@ -103,8 +93,18 @@
       "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 66,
+      "ping_ms": 71,
       "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+    },
+    {
+      "server": "hyper.sosproxy.space",
+      "host": "hyper.sosproxy.space",
+      "port": 443,
+      "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 72,
+      "tg_url": "https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d"
     }
   ]
 }
