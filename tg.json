@@ -30,6 +30,12 @@
     "type": "mtproto"
   },
   {
+    "server": "31.130.133.59",
+    "port": 443,
+    "secret": "ee79612e72754283dd67718731403044",
+    "type": "mtproto"
+  },
+  {
     "server": "ultra.mishutkin.click",
     "port": 443,
     "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
@@ -42,12 +48,6 @@
     "type": "mtproto"
   },
   {
-    "server": "echo.lite64.xyz",
-    "port": 443,
-    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
     "server": "poppy-elm.velvetoak.work",
     "port": 443,
     "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
@@ -56,7 +56,7 @@
   {
     "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   }
 ]
