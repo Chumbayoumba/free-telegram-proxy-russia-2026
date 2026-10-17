@@ -3,7 +3,7 @@
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Si9-YyVaQTU1MjAy)
 [![Proxies online](https://img.shields.io/badge/proxies_online-10-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![Updated](https://img.shields.io/badge/updated-18.10.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
-[![WEB Proxy](https://img.shields.io/badge/NEW-WEB_Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
+[![WEB Proxy](https://img.shields.io/badge/NEW-WEB_Proxy-7c3aed?logo=telegram)](https://webproxy.stream/)
 [![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://t.me/+Si9-YyVaQTU1MjAy)
 
 > **Рабочие бесплатные MTProto-прокси для Telegram с проверкой из России.** Список обновляется автоматически каждые 2 часа: в нём только прокси, которые реально подключились с российского сервера. Обход блокировок, замедления и белых списков на МТС, МегаФон, Tele2 (T2), Билайн, Yota, Ростелеком. Подключение в один клик, без регистрации и оплаты.
@@ -14,7 +14,7 @@
 > 🟢 **Обновлено: 18.10.2026 01:19 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
-> 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://telegra.ph/WEB-proksi-dlya-Telegram-besplatnyj-dlya-PK-i-Android-10-11)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
+> 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://webproxy.stream/)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
 
 
 ---
@@ -51,7 +51,7 @@
 
 С августа 2026 года Telegram поддерживает новый тип прокси — **WEB**: сначала на компьютере, а с 8 октября 2026 — и на Android, и на iPhone. Трафик Telegram идёт через обычный HTTPS/WebSocket, как у сайта, поэтому такой прокси сложнее распознать и заблокировать. Переписку прокси не видит: он передаёт уже зашифрованные данные.
 
-👉 **[ПОДКЛЮЧИТЬ WEB-ПРОКСИ](https://telegra.ph/WEB-proksi-dlya-Telegram-besplatnyj-dlya-PK-i-Android-10-11)** 👈 (на странице — кнопка «Подключить», она откроет Telegram)
+👉 **[ПОДКЛЮЧИТЬ WEB-ПРОКСИ](https://webproxy.stream/)** 👈 (на странице — кнопка «Подключить», она откроет Telegram)
 
 > 🔁 **Адрес сменился 17.10.2026:** старый `free.vnespiska.win` заблокирован РКН — если подключал его, добавь новый.
 
@@ -116,7 +116,7 @@ tg://webproxy?server=webproxy.stream&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 
 **Прокси для iPhone работает?** Да, MTProto поддерживается в Telegram для iOS. WEB-прокси работает в Telegram Desktop и в Telegram для Android 12.10.4+ (экспериментально), на iPhone его пока нет.
 
-**Telegram на компьютере тоже?** Да: MTProto из таблицы или новый [WEB-прокси](https://vnespiska.win/webproxy/), его сложнее заблокировать.
+**Telegram на компьютере тоже?** Да: MTProto из таблицы или новый [WEB-прокси](https://webproxy.stream/), его сложнее заблокировать.
 
 **Нужен доступ к WhatsApp?** См. [glushilok.net/whatsapp-proxy](https://glushilok.net/whatsapp-proxy/).
 
@@ -138,12 +138,12 @@ API с проверкой из России (обновление каждые 1
 ## 🌐 Больше прокси и VPN
 
 - 📢 **Telegram-канал:** [@vnespiska](https://t.me/+Si9-YyVaQTU1MjAy) — свежие прокси каждый час, новости блокировок
-- 📰 **Живые списки на Telegraph** (обновляются каждые 2 часа): [рабочие прокси сегодня](https://telegra.ph/Besplatnyj-proksi-dlya-Telegram--rabochie-segodnya-provereny-iz-Rossii-10-11), [MTProto-прокси 2026](https://telegra.ph/MTProto-proksi-dlya-Telegram-2026-svezhij-spisok-s-proverkoj-iz-Rossii-10-11), [WEB-прокси для ПК и Android](https://telegra.ph/WEB-proksi-dlya-Telegram-besplatnyj-dlya-PK-i-Android-10-11), [не работает Telegram](https://telegra.ph/Ne-rabotaet-Telegram-proksi-kotoryj-podklyuchaetsya-v-odin-klik-10-11)
+- 📰 **Живые списки на Telegraph** (обновляются каждые 2 часа): [рабочие прокси сегодня](https://telegra.ph/Besplatnyj-proksi-dlya-Telegram--rabochie-segodnya-provereny-iz-Rossii-10-11), [MTProto-прокси 2026](https://telegra.ph/MTProto-proksi-dlya-Telegram-2026-svezhij-spisok-s-proverkoj-iz-Rossii-10-11), [WEB-прокси для ПК и Android](https://webproxy.stream/), [не работает Telegram](https://telegra.ph/Ne-rabotaet-Telegram-proksi-kotoryj-podklyuchaetsya-v-odin-klik-10-11)
 - 🤖 **Бот:** [@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_github) — прокси за секунду, уведомления о новых, VPN
 - ⚪ **[Обход белых списков 2026](https://github.com/Chumbayoumba/obhod-belyh-spiskov)** — что работает при отключении мобильного интернета: прокси, подписки VLESS на GitHub, VPN
 - 🟢 **Сайт, который открывается без VPN:** [goida.win](https://goida.win/) — [прокси для Telegram](https://goida.win/proxy-telegram/), [что делать, если Telegram не работает](https://goida.win/telegram-ne-rabotaet/), [обход белых списков](https://goida.win/obhod-belyh-spiskov/)
 - 🔗 **[glushilok.net](https://glushilok.net/)** — бесплатный прокси + VPN, [гайды по VPN и обходу DPI](https://glushilok.net/guides/)
-- 🛡 **[vnespiska.win](https://vnespiska.win/proxy/)** — прокси, [WEB-прокси](https://vnespiska.win/webproxy/), инструкции по [Happ](https://vnespiska.win/happ-vpn/), [Hiddify](https://vnespiska.win/hiddify-guide/), [FlClash](https://vnespiska.win/flclash/), [Clash](https://vnespiska.win/clash-guide/), [VLESS-ключам](https://vnespiska.win/vless-klyuchi/)
+- 🛡 **[vnespiska.win](https://vnespiska.win/proxy/)** — прокси, [WEB-прокси](https://webproxy.stream/), инструкции по [Happ](https://vnespiska.win/happ-vpn/), [Hiddify](https://vnespiska.win/hiddify-guide/), [FlClash](https://vnespiska.win/flclash/), [Clash](https://vnespiska.win/clash-guide/), [VLESS-ключам](https://vnespiska.win/vless-klyuchi/)
 
 ---
 
