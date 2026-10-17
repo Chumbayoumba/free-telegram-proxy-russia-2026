@@ -55,6 +55,8 @@
 
 > 🔁 **Адрес сменился 17.10.2026:** старый `free.vnespiska.win` заблокирован РКН — если подключал его, добавь новый.
 
+🛠 Хотите поднять свой WEB-прокси? Пошаговые заметки и грабли (SNI-блокировки, JS-проверки анти-DDoS, буфер tproxy-server, режим websocket): **[telegram-webproxy-guide](https://github.com/Chumbayoumba/telegram-webproxy-guide)**.
+
 | Параметр | Значение |
 |----------|----------|
 | **Тип** | `WEB` |
