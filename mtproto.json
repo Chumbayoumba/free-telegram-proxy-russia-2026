@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T21:13:01+00:00",
+  "updated": "2026-10-17T00:27:45+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,24 +7,24 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
+      "server": "ultra.mishutkin.click",
+      "host": "ultra.mishutkin.click",
+      "port": 443,
+      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 73,
+      "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+    },
+    {
       "server": "condor-granite.velvetoak.work",
       "host": "condor-granite.velvetoak.work",
       "port": 443,
       "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 90,
+      "ping_ms": 108,
       "tg_url": "https://t.me/proxy?server=condor-granite.velvetoak.work&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465"
-    },
-    {
-      "server": "condor-granite.driftquill.click",
-      "host": "condor-granite.driftquill.click",
-      "port": 443,
-      "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 71,
-      "tg_url": "https://t.me/proxy?server=condor-granite.driftquill.click&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465"
     },
     {
       "server": "forest.lite64.xyz",
@@ -33,7 +33,7 @@
       "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 183,
+      "ping_ms": 69,
       "tg_url": "https://t.me/proxy?server=forest.lite64.xyz&port=443&secret=ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465"
     },
     {
@@ -43,7 +43,7 @@
       "secret": "eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 91,
+      "ping_ms": 219,
       "tg_url": "https://t.me/proxy?server=granite-monarch.velvetoak.work&port=443&secret=eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465"
     },
     {
@@ -53,8 +53,18 @@
       "secret": "eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 73,
+      "ping_ms": 70,
       "tg_url": "https://t.me/proxy?server=ember.lite64.xyz&port=443&secret=eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465"
+    },
+    {
+      "server": "edge.tidalcache.com",
+      "host": "edge.tidalcache.com",
+      "port": 443,
+      "secret": "ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 49,
+      "tg_url": "https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.co.uk",
@@ -63,7 +73,7 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 63,
+      "ping_ms": 45,
       "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
@@ -73,7 +83,7 @@
       "secret": "ee79612e72754283dd67718731403044",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 48,
+      "ping_ms": 46,
       "tg_url": "https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044"
     },
     {
@@ -83,18 +93,8 @@
       "secret": "ee1603010200010001fc030486e24c3add",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 46,
+      "ping_ms": 45,
       "tg_url": "https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add"
-    },
-    {
-      "server": "ultra.mishutkin.click",
-      "host": "ultra.mishutkin.click",
-      "port": 443,
-      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 71,
-      "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
     },
     {
       "server": "hyper.sosproxy.space",

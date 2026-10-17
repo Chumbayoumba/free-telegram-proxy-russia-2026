@@ -1,12 +1,12 @@
 [
   {
-    "server": "condor-granite.velvetoak.work",
+    "server": "ultra.mishutkin.click",
     "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.driftquill.click",
+    "server": "condor-granite.velvetoak.work",
     "port": 443,
     "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
@@ -30,6 +30,12 @@
     "type": "mtproto"
   },
   {
+    "server": "edge.tidalcache.com",
+    "port": 443,
+    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275",
+    "type": "mtproto"
+  },
+  {
     "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
@@ -45,12 +51,6 @@
     "server": "49.12.217.239",
     "port": 8443,
     "secret": "ee1603010200010001fc030486e24c3add",
-    "type": "mtproto"
-  },
-  {
-    "server": "ultra.mishutkin.click",
-    "port": 443,
-    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   },
   {
