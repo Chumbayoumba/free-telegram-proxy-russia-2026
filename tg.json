@@ -6,9 +6,9 @@
     "type": "mtproto"
   },
   {
-    "server": "hyper.sosproxy.space",
+    "server": "condor-granite.velvetoak.work",
     "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   },
   {
@@ -54,9 +54,9 @@
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.velvetoak.work",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   }
 ]
