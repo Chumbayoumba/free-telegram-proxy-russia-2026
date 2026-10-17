@@ -12,6 +12,12 @@
     "type": "mtproto"
   },
   {
+    "server": "echo.lite64.xyz",
+    "port": 443,
+    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
     "server": "forest.lite64.xyz",
     "port": 443,
     "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
@@ -48,15 +54,9 @@
     "type": "mtproto"
   },
   {
-    "server": "echo.lite64.xyz",
+    "server": "condor-granite.velvetoak.work",
     "port": 443,
-    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "edge.tidalcache.com",
-    "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275",
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   }
 ]
