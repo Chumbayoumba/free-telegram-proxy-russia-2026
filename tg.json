@@ -6,6 +6,12 @@
     "type": "mtproto"
   },
   {
+    "server": "hyper.sosproxy.space",
+    "port": 443,
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "type": "mtproto"
+  },
+  {
     "server": "spb-ee.spiderservice.vip",
     "port": 443,
     "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
@@ -51,12 +57,6 @@
     "server": "49.12.217.239",
     "port": 8443,
     "secret": "ee1603010200010001fc030486e24c3add",
-    "type": "mtproto"
-  },
-  {
-    "server": "condor-granite.driftquill.click",
-    "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   }
 ]
