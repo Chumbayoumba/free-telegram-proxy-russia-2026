@@ -1,8 +1,44 @@
 [
   {
-    "server": "drift.lite64.top",
+    "server": "dns.dnsrender.info",
     "port": 443,
-    "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "89.125.156.204",
+    "port": 443,
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
+    "server": "89.125.156.88",
+    "port": 443,
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
+    "server": "82.22.41.37",
+    "port": 8443,
+    "secret": "ee1104a80139ca104cdb1184484edf78c37275737369616e2d616e696d616c732e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "toka69.velvetoak.work",
+    "port": 443,
+    "secret": "ee1fb23d3871d7fb9570f26aee4fc6456b6c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "31.57.12.234",
+    "port": 443,
+    "secret": "eefbfe5681832d6f42bbc050839be23bf46d2e6265626f6f2e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "13.141.64.65",
+    "port": 443,
+    "secret": "ee9cbfac70061528273114bf7c5c64f17c746f6b6131332e616d626572726565642e746f70",
     "type": "mtproto"
   }
 ]
