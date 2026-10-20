@@ -6,33 +6,15 @@
     "type": "mtproto"
   },
   {
-    "server": "31.130.133.59",
-    "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
-    "type": "mtproto"
-  },
-  {
-    "server": "89.125.156.204",
-    "port": 443,
-    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-    "type": "mtproto"
-  },
-  {
     "server": "dns.dnsrender.info",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
-    "server": "89.125.156.88",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-    "type": "mtproto"
-  },
-  {
-    "server": "mkima.davay.click",
-    "port": 443,
-    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
@@ -42,9 +24,15 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "89.125.156.88",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
+    "server": "31.130.133.59",
+    "port": 443,
+    "secret": "ee79612e72754283dd67718731403044",
     "type": "mtproto"
   },
   {
@@ -54,9 +42,21 @@
     "type": "mtproto"
   },
   {
-    "server": "amsterdam.geodns.info",
+    "server": "89.125.156.204",
     "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
+    "server": "dolphin.lite64.xyz",
+    "port": 443,
+    "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "fresco-geyser.velvetoak.work",
+    "port": 443,
+    "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
     "type": "mtproto"
   }
 ]
