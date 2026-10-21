@@ -6,27 +6,15 @@
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.velvetoak.work",
+    "server": "condor-granite.driftquill.click",
     "port": 443,
     "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "echo.lite64.xyz",
-    "port": 443,
-    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
     "type": "mtproto"
   },
   {
     "server": "drift.lite64.xyz",
     "port": 443,
     "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "31.130.133.59",
-    "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
     "type": "mtproto"
   },
   {
@@ -48,15 +36,27 @@
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.driftquill.click",
+    "server": "31.130.133.59",
     "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "ee79612e72754283dd67718731403044",
+    "type": "mtproto"
+  },
+  {
+    "server": "dns.dnsrender.info",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
     "server": "fresco-geyser.velvetoak.work",
     "port": 443,
     "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "dolphin.lite64.xyz",
+    "port": 443,
+    "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
     "type": "mtproto"
   }
 ]
