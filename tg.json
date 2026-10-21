@@ -1,5 +1,11 @@
 [
   {
+    "server": "hyper.sosproxy.space",
+    "port": 443,
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "type": "mtproto"
+  },
+  {
     "server": "spb-ee.spiderservice.vip",
     "port": 443,
     "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
@@ -45,12 +51,6 @@
     "server": "31.130.133.59",
     "port": 443,
     "secret": "ee79612e72754283dd67718731403044",
-    "type": "mtproto"
-  },
-  {
-    "server": "49.12.217.239",
-    "port": 8443,
-    "secret": "ee1603010200010001fc030486e24c3add",
     "type": "mtproto"
   },
   {
