@@ -6,27 +6,9 @@
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.driftquill.click",
+    "server": "amsterdam.geodns.info",
     "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "49.12.217.239",
-    "port": 8443,
-    "secret": "ee1603010200010001fc030486e24c3add",
-    "type": "mtproto"
-  },
-  {
-    "server": "89.125.156.88",
-    "port": 443,
-    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-    "type": "mtproto"
-  },
-  {
-    "server": "condor-granite.velvetoak.work",
-    "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
@@ -36,27 +18,45 @@
     "type": "mtproto"
   },
   {
-    "server": "granite-monarch.velvetoak.work",
+    "server": "89.125.156.88",
     "port": 443,
-    "secret": "eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465",
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
     "type": "mtproto"
   },
   {
-    "server": "fresco-geyser.velvetoak.work",
+    "server": "condor-granite.driftquill.click",
     "port": 443,
-    "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "dolphin.lite64.xyz",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
     "type": "mtproto"
   },
   {
-    "server": "amsterdam.geodns.info",
+    "server": "49.12.217.239",
+    "port": 8443,
+    "secret": "ee1603010200010001fc030486e24c3add",
+    "type": "mtproto"
+  },
+  {
+    "server": "poppy-elm.velvetoak.work",
     "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "ember.lite64.xyz",
+    "port": 443,
+    "secret": "eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "echo.lite64.xyz",
+    "port": 443,
+    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
     "type": "mtproto"
   }
 ]
