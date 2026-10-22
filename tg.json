@@ -12,15 +12,27 @@
     "type": "mtproto"
   },
   {
-    "server": "49.12.217.239",
-    "port": 8443,
-    "secret": "ee1603010200010001fc030486e24c3add",
+    "server": "condor-granite.velvetoak.work",
+    "port": 443,
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   },
   {
     "server": "89.125.156.204",
     "port": 443,
     "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
+    "server": "ember.lite64.xyz",
+    "port": 443,
+    "secret": "eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "49.12.217.239",
+    "port": 8443,
+    "secret": "ee1603010200010001fc030486e24c3add",
     "type": "mtproto"
   },
   {
@@ -36,27 +48,15 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "dolphin.lite64.xyz",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
     "type": "mtproto"
   },
   {
-    "server": "drift.lite64.top",
+    "server": "amber-yarrow.velvetoak.work",
     "port": 443,
-    "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "edge.tidalcache.com",
-    "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-    "type": "mtproto"
-  },
-  {
-    "server": "condor-granite.velvetoak.work",
-    "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465",
     "type": "mtproto"
   }
 ]
