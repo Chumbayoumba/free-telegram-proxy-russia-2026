@@ -18,6 +18,12 @@
     "type": "mtproto"
   },
   {
+    "server": "forest.lite64.xyz",
+    "port": 443,
+    "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
     "server": "dolphin.lite64.xyz",
     "port": 443,
     "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
@@ -42,21 +48,15 @@
     "type": "mtproto"
   },
   {
+    "server": "49.12.217.239",
+    "port": 8443,
+    "secret": "ee1603010200010001fc030486e24c3add",
+    "type": "mtproto"
+  },
+  {
     "server": "hyper.sosproxy.space",
     "port": 443,
     "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
-    "type": "mtproto"
-  },
-  {
-    "server": "condor-granite.velvetoak.work",
-    "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "ember.lite64.xyz",
-    "port": 443,
-    "secret": "eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465",
     "type": "mtproto"
   }
 ]
