@@ -12,27 +12,15 @@
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.driftquill.click",
+    "server": "dns.dnsrender.info",
     "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
-    "server": "dolphin.lite64.xyz",
+    "server": "edge.tidalcache.com",
     "port": 443,
-    "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "granite-monarch.velvetoak.work",
-    "port": 443,
-    "secret": "eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "amber-yarrow.velvetoak.work",
-    "port": 443,
-    "secret": "ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465",
+    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
     "type": "mtproto"
   },
   {
@@ -42,21 +30,33 @@
     "type": "mtproto"
   },
   {
-    "server": "89.125.156.88",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
+    "type": "mtproto"
+  },
+  {
+    "server": "edge.turboass.live",
     "port": 443,
     "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.velvetoak.work",
-    "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "server": "dl3.soft98.net",
+    "port": 2053,
+    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
     "type": "mtproto"
   },
   {
-    "server": "ember.lite64.xyz",
+    "server": "home.dnsrender.info",
     "port": 443,
-    "secret": "eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "redflag.yazaebalsyadelatproxy.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   }
 ]
