@@ -1,14 +1,8 @@
 [
   {
-    "server": "spb-ee.spiderservice.vip",
+    "server": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
-    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
-    "type": "mtproto"
-  },
-  {
-    "server": "49.12.217.239",
-    "port": 8443,
-    "secret": "ee1603010200010001fc030486e24c3add",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
@@ -24,15 +18,27 @@
     "type": "mtproto"
   },
   {
+    "server": "49.12.217.239",
+    "port": 8443,
+    "secret": "ee1603010200010001fc030486e24c3add",
+    "type": "mtproto"
+  },
+  {
     "server": "edge.tidalcache.com",
     "port": 443,
     "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
     "type": "mtproto"
   },
   {
-    "server": "forest.lite64.xyz",
+    "server": "dns.dnsrender.info",
     "port": 443,
-    "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
@@ -48,13 +54,7 @@
     "type": "mtproto"
   },
   {
-    "server": "31.130.133.59",
-    "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
-    "type": "mtproto"
-  },
-  {
-    "server": "condor-granite.driftquill.click",
+    "server": "condor-granite.velvetoak.work",
     "port": 443,
     "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"

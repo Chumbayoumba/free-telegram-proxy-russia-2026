@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T16:28:05+00:00",
+  "updated": "2026-10-25T20:43:11+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,24 +7,14 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
-      "server": "spb-ee.spiderservice.vip",
-      "host": "spb-ee.spiderservice.vip",
+      "server": "redflag.yazaebalsyadelatproxy.uk",
+      "host": "redflag.yazaebalsyadelatproxy.uk",
       "port": 443,
-      "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 78,
-      "tg_url": "https://t.me/proxy?server=spb-ee.spiderservice.vip&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275"
-    },
-    {
-      "server": "49.12.217.239",
-      "host": "49.12.217.239",
-      "port": 8443,
-      "secret": "ee1603010200010001fc030486e24c3add",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 58,
-      "tg_url": "https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add"
+      "ping_ms": 61,
+      "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "ui.geodns.info",
@@ -33,7 +23,7 @@
       "secret": "ee79e344818749bd7ac519130220c25d09",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 199,
+      "ping_ms": 55,
       "tg_url": "https://t.me/proxy?server=ui.geodns.info&port=4455&secret=ee79e344818749bd7ac519130220c25d09"
     },
     {
@@ -43,8 +33,18 @@
       "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 47,
+      "ping_ms": 43,
       "tg_url": "https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01"
+    },
+    {
+      "server": "49.12.217.239",
+      "host": "49.12.217.239",
+      "port": 8443,
+      "secret": "ee1603010200010001fc030486e24c3add",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 50,
+      "tg_url": "https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add"
     },
     {
       "server": "edge.tidalcache.com",
@@ -57,14 +57,24 @@
       "tg_url": "https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d"
     },
     {
-      "server": "forest.lite64.xyz",
-      "host": "forest.lite64.xyz",
+      "server": "dns.dnsrender.info",
+      "host": "dns.dnsrender.info",
       "port": 443,
-      "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
+      "secret": "ee79e344818749bd7ac519130220c25d09",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 134,
-      "tg_url": "https://t.me/proxy?server=forest.lite64.xyz&port=443&secret=ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465"
+      "ping_ms": 104,
+      "tg_url": "https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.co.uk",
+      "host": "redflag.yazaebalsyadelatproxy.co.uk",
+      "port": 443,
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 53,
+      "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "drift.lite64.top",
@@ -73,7 +83,7 @@
       "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 92,
+      "ping_ms": 147,
       "tg_url": "https://t.me/proxy?server=drift.lite64.top&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465"
     },
     {
@@ -83,28 +93,18 @@
       "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 75,
+      "ping_ms": 72,
       "tg_url": "https://t.me/proxy?server=echo.lite64.xyz&port=443&secret=ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465"
     },
     {
-      "server": "31.130.133.59",
-      "host": "31.130.133.59",
-      "port": 443,
-      "secret": "ee79612e72754283dd67718731403044",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 44,
-      "tg_url": "https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044"
-    },
-    {
-      "server": "condor-granite.driftquill.click",
-      "host": "condor-granite.driftquill.click",
+      "server": "condor-granite.velvetoak.work",
+      "host": "condor-granite.velvetoak.work",
       "port": 443,
       "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 59,
-      "tg_url": "https://t.me/proxy?server=condor-granite.driftquill.click&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465"
+      "ping_ms": 76,
+      "tg_url": "https://t.me/proxy?server=condor-granite.velvetoak.work&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465"
     }
   ]
 }
