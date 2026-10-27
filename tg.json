@@ -1,14 +1,8 @@
 [
   {
-    "server": "poppy-elm.velvetoak.work",
+    "server": "spb-ee.spiderservice.vip",
     "port": 443,
-    "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "49.12.217.239",
-    "port": 8443,
-    "secret": "ee1603010200010001fc030486e24c3add",
+    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
     "type": "mtproto"
   },
   {
@@ -24,21 +18,21 @@
     "type": "mtproto"
   },
   {
-    "server": "spb-ee.spiderservice.vip",
+    "server": "drift.lite64.top",
     "port": 443,
-    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
+    "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
     "type": "mtproto"
   },
   {
-    "server": "forest.lite64.xyz",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
-    "server": "dolphin.lite64.xyz",
-    "port": 443,
-    "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
+    "server": "49.12.217.239",
+    "port": 8443,
+    "secret": "ee1603010200010001fc030486e24c3add",
     "type": "mtproto"
   },
   {
@@ -48,15 +42,21 @@
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.driftquill.click",
+    "server": "dns.dnsrender.info",
     "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
     "server": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
+    "type": "mtproto"
+  },
+  {
+    "server": "amber-yarrow.velvetoak.work",
+    "port": 443,
+    "secret": "ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465",
     "type": "mtproto"
   }
 ]
