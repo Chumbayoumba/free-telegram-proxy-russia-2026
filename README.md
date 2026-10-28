@@ -11,7 +11,7 @@
 **Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 28.10.2026 11:29 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 28.10.2026 19:29 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://webproxy.stream/)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -26,16 +26,16 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `49.12.217.239` | `8443` | 🟢 52 мс | **[⚡ Подключить](https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add)** |
-| 2 | `ui.geodns.info` | `4455` | 🟢 57 мс | **[⚡ Подключить](https://t.me/proxy?server=ui.geodns.info&port=4455&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 3 | `178.104.36.158` | `443` | 🟢 56 мс | **[⚡ Подключить](https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01)** |
-| 4 | `spb-ee.spiderservice.vip` | `443` | 🟢 11 мс | **[⚡ Подключить](https://t.me/proxy?server=spb-ee.spiderservice.vip&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275)** |
-| 5 | `host.white-dns.info` | `443` | 🟢 52 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 6 | `dns.dnsrender.info` | `443` | 🟢 46 мс | **[⚡ Подключить](https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 7 | `redflag.yazaebalsyadelatp…` | `443` | 🟢 53 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63)** |
-| 8 | `edge.tidalcache.com` | `443` | 🟢 48 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d)** |
-| 9 | `31.130.133.59` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
-| 10 | `ultra.mishutkin.click` | `443` | 🟢 73 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
+| 1 | `spb-ee.spiderservice.vip` | `443` | 🟡 81 мс | **[⚡ Подключить](https://t.me/proxy?server=spb-ee.spiderservice.vip&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275)** |
+| 2 | `49.12.217.239` | `8443` | 🟢 59 мс | **[⚡ Подключить](https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add)** |
+| 3 | `ui.geodns.info` | `4455` | 🟠 205 мс | **[⚡ Подключить](https://t.me/proxy?server=ui.geodns.info&port=4455&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 4 | `redflag.yazaebalsyadelatp…` | `443` | 🟡 84 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363)** |
+| 5 | `178.104.36.158` | `443` | 🟢 71 мс | **[⚡ Подключить](https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01)** |
+| 6 | `37.27.145.168` | `8443` | 🟢 18 мс | **[⚡ Подключить](https://t.me/proxy?server=37.27.145.168&port=8443&secret=ee1603010200010001fc030486e24c3add)** |
+| 7 | `31.130.133.59` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
+| 8 | `edge.tidalcache.com` | `443` | 🟢 51 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d)** |
+| 9 | `redflag.yazaebalsyadelatp…` | `443` | 🟡 81 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363)** |
+| 10 | `super.alotaxi.info` | `4515` | 🟠 245 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
 <!-- LIVE:END -->
 
 > [!TIP]
