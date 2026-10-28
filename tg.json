@@ -1,32 +1,20 @@
 [
   {
-    "server": "spb-ee.spiderservice.vip",
-    "port": 443,
-    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
-    "type": "mtproto"
-  },
-  {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
-    "type": "mtproto"
-  },
-  {
     "server": "178.104.36.158",
     "port": 443,
     "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
     "type": "mtproto"
   },
   {
-    "server": "ui.geodns.info",
-    "port": 4455,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "server": "spb-ee.spiderservice.vip",
+    "port": 443,
+    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
     "type": "mtproto"
   },
   {
-    "server": "amber-yarrow.velvetoak.work",
+    "server": "echo.lite64.xyz",
     "port": 443,
-    "secret": "ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465",
+    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
     "type": "mtproto"
   },
   {
@@ -42,21 +30,33 @@
     "type": "mtproto"
   },
   {
-    "server": "super.alotaxi.info",
-    "port": 4515,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
+    "server": "granite-monarch.velvetoak.work",
+    "port": 443,
+    "secret": "eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465",
     "type": "mtproto"
   },
   {
-    "server": "31.130.133.59",
+    "server": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "condor-granite.driftquill.click",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "ember.lite64.xyz",
+    "port": 443,
+    "secret": "eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "poppy-elm.velvetoak.work",
+    "port": 443,
+    "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
     "type": "mtproto"
   }
 ]
