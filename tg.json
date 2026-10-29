@@ -1,11 +1,5 @@
 [
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "type": "mtproto"
-  },
-  {
     "server": "31.130.133.59",
     "port": 443,
     "secret": "ee79612e72754283dd67718731403044",
@@ -18,9 +12,27 @@
     "type": "mtproto"
   },
   {
-    "server": "49.12.217.239",
-    "port": 8443,
-    "secret": "ee1603010200010001fc030486e24c3add",
+    "server": "178.104.36.158",
+    "port": 443,
+    "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
+    "type": "mtproto"
+  },
+  {
+    "server": "spb-ee.spiderservice.vip",
+    "port": 443,
+    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+    "type": "mtproto"
+  },
+  {
+    "server": "drift.lite64.top",
+    "port": 443,
+    "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
     "type": "mtproto"
   },
   {
@@ -30,33 +42,21 @@
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.driftquill.click",
-    "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "server": "49.12.217.239",
+    "port": 8443,
+    "secret": "ee1603010200010001fc030486e24c3add",
     "type": "mtproto"
   },
   {
-    "server": "super.alotaxi.info",
-    "port": 4515,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
+    "server": "host.white-dns.info",
+    "port": 443,
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.velvetoak.work",
+    "server": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "drift.lite64.xyz",
-    "port": 443,
-    "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "spb-ee.spiderservice.vip",
-    "port": 443,
-    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   }
 ]
