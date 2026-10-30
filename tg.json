@@ -1,8 +1,62 @@
 [
   {
+    "server": "dl3.soft98.net",
+    "port": 2053,
+    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
+    "type": "mtproto"
+  },
+  {
     "server": "fresco-geyser.driftquill.click",
     "port": 443,
     "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "31.130.133.59",
+    "port": 443,
+    "secret": "ee79612e72754283dd67718731403044",
+    "type": "mtproto"
+  },
+  {
+    "server": "49.12.217.239",
+    "port": 8443,
+    "secret": "ee1603010200010001fc030486e24c3add",
+    "type": "mtproto"
+  },
+  {
+    "server": "178.104.36.158",
+    "port": 443,
+    "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
+    "type": "mtproto"
+  },
+  {
+    "server": "condor-granite.driftquill.click",
+    "port": 443,
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "super.alotaxi.info",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "echo.lite64.xyz",
+    "port": 443,
+    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "mobile.mishutkin.click",
+    "port": 443,
+    "secret": "eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b",
+    "type": "mtproto"
+  },
+  {
+    "server": "host.white-dns.info",
+    "port": 443,
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
     "type": "mtproto"
   }
 ]
