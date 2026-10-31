@@ -1,14 +1,8 @@
 [
   {
-    "server": "ru.mishutkin.click",
+    "server": "31.130.133.59",
     "port": 443,
-    "secret": "eeb3488e94c4736494021f7b01c7ecf6bf72752e6d69736875746b696e2e636c69636b",
-    "type": "mtproto"
-  },
-  {
-    "server": "spb-ee.spiderservice.vip",
-    "port": 443,
-    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
+    "secret": "ee79612e72754283dd67718731403044",
     "type": "mtproto"
   },
   {
@@ -18,45 +12,51 @@
     "type": "mtproto"
   },
   {
+    "server": "super.alotaxi.info",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "dns.dnsrender.info",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "host.white-dns.info",
+    "port": 443,
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+    "type": "mtproto"
+  },
+  {
     "server": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
     "type": "mtproto"
   },
   {
-    "server": "echo.lite64.xyz",
+    "server": "fast.proxynet.tech",
     "port": 443,
-    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
+    "secret": "ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368",
     "type": "mtproto"
   },
   {
-    "server": "dolphin.lite64.xyz",
+    "server": "forest.lite64.xyz",
     "port": 443,
-    "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
+    "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
     "type": "mtproto"
   },
   {
-    "server": "ultra.mishutkin.click",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
-    "server": "granite-monarch.velvetoak.work",
+    "server": "spb-ee.spiderservice.vip",
     "port": 443,
-    "secret": "eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "mobile.mishutkin.click",
-    "port": 443,
-    "secret": "eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b",
-    "type": "mtproto"
-  },
-  {
-    "server": "condor-granite.driftquill.click",
-    "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
     "type": "mtproto"
   }
 ]
