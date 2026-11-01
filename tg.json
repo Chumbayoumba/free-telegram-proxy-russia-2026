@@ -1,8 +1,14 @@
 [
   {
-    "server": "31.130.133.59",
+    "server": "spb-ee.spiderservice.vip",
     "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
+    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "redflag.yazaebalsyadelatproxy.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
     "type": "mtproto"
   },
   {
@@ -12,15 +18,15 @@
     "type": "mtproto"
   },
   {
-    "server": "super.alotaxi.info",
-    "port": 4515,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
-    "server": "dns.dnsrender.info",
+    "server": "edge.tidalcache.com",
     "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
     "type": "mtproto"
   },
   {
@@ -30,33 +36,27 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
+    "server": "dl3.soft98.net",
+    "port": 2053,
+    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
     "type": "mtproto"
   },
   {
-    "server": "fast.proxynet.tech",
+    "server": "dns.dnsrender.info",
     "port": 443,
-    "secret": "ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
-    "server": "forest.lite64.xyz",
+    "server": "ultra.mishutkin.click",
     "port": 443,
-    "secret": "ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465",
+    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "ru.mishutkin.click",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
-    "type": "mtproto"
-  },
-  {
-    "server": "spb-ee.spiderservice.vip",
-    "port": 443,
-    "secret": "ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275",
+    "secret": "eeb3488e94c4736494021f7b01c7ecf6bf72752e6d69736875746b696e2e636c69636b",
     "type": "mtproto"
   }
 ]
