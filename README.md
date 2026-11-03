@@ -2,7 +2,7 @@
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Si9-YyVaQTU1MjAy)
 [![Proxies online](https://img.shields.io/badge/proxies_online-10-brightgreen)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
-[![Updated](https://img.shields.io/badge/updated-03.11.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
+[![Updated](https://img.shields.io/badge/updated-04.11.2026-orange)](#-рабочие-прокси-для-telegram--подключить-в-один-клик)
 [![WEB Proxy](https://img.shields.io/badge/NEW-WEB_Proxy-7c3aed?logo=telegram)](https://webproxy.stream/)
 [![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://t.me/+Si9-YyVaQTU1MjAy)
 
@@ -11,7 +11,7 @@
 **Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 03.11.2026 19:06 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 04.11.2026 00:37 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://webproxy.stream/)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -26,16 +26,16 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `html.geo-cdn.ru` | `443` | 🟢 64 мс | **[⚡ Подключить](https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 2 | `super.alotaxi.info` | `4515` | 🟡 102 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
-| 3 | `178.104.36.158` | `443` | 🟢 49 мс | **[⚡ Подключить](https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01)** |
-| 4 | `tg4.quki-hub.com` | `9443` | 🟢 47 мс | **[⚡ Подключить](https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=dd58737358dee675be48618b79ece66f8c)** |
-| 5 | `ppl.vpnpplvpn.top` | `8443` | 🟢 12 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 6 | `154.36.180.131` | `443` | 🟠 287 мс | **[⚡ Подключить](https://t.me/proxy?server=154.36.180.131&port=443&secret=eeff2a510da3958357083ec111f4de115f7777772e6d6963726f736f66742e636f6d)** |
-| 7 | `154.36.180.131` | `28301` | 🟠 260 мс | **[⚡ Подключить](https://t.me/proxy?server=154.36.180.131&port=28301&secret=eeff2a510da3958357083ec111f4de115f7777772e6d6963726f736f66742e636f6d)** |
-| 8 | `amsterdam.geodns.info` | `443` | 🟢 55 мс | **[⚡ Подключить](https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 9 | `dl3.soft98.net` | `2053` | 🟠 5043 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
-| 10 | `dns.dnsrender.info` | `443` | 🟡 145 мс | **[⚡ Подключить](https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 1 | `html.geo-cdn.ru` | `443` | 🟢 55 мс | **[⚡ Подключить](https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 2 | `178.104.36.158` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01)** |
+| 3 | `154.36.180.131` | `28301` | 🟠 249 мс | **[⚡ Подключить](https://t.me/proxy?server=154.36.180.131&port=28301&secret=eeff2a510da3958357083ec111f4de115f7777772e6d6963726f736f66742e636f6d)** |
+| 4 | `redflag.yazaebalsyadelatp…` | `443` | 🟢 41 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63)** |
+| 5 | `edge.tidalcache.com` | `443` | 🟢 44 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d)** |
+| 6 | `amsterdam.geodns.info` | `443` | 🟡 106 мс | **[⚡ Подключить](https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 7 | `154.36.180.131` | `443` | 🟠 253 мс | **[⚡ Подключить](https://t.me/proxy?server=154.36.180.131&port=443&secret=eeff2a510da3958357083ec111f4de115f7777772e6d6963726f736f66742e636f6d)** |
+| 8 | `dl3.soft98.net` | `2053` | 🟢 37 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
+| 9 | `global.mtp.lat` | `443` | 🟢 63 мс | **[⚡ Подключить](https://t.me/proxy?server=global.mtp.lat&port=443&secret=eeea5c522925ce4846b03c8818bed7a4db6c69746536342e73697465)** |
+| 10 | `edge.turboass.live` | `443` | 🟡 185 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
 <!-- LIVE:END -->
 
 > [!TIP]
