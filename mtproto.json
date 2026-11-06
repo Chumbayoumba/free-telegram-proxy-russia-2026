@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T23:35:02+00:00",
+  "updated": "2026-11-06T06:50:57+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,34 +7,24 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
+      "server": "global.mtp.lat",
+      "host": "global.mtp.lat",
+      "port": 443,
+      "secret": "eeea5c522925ce4846b03c8818bed7a4db6c69746536342e73697465",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 77,
+      "tg_url": "https://t.me/proxy?server=global.mtp.lat&port=443&secret=eeea5c522925ce4846b03c8818bed7a4db6c69746536342e73697465"
+    },
+    {
       "server": "178.104.36.158",
       "host": "178.104.36.158",
       "port": 443,
       "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 45,
+      "ping_ms": 44,
       "tg_url": "https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01"
-    },
-    {
-      "server": "html.geo-cdn.ru",
-      "host": "html.geo-cdn.ru",
-      "port": 443,
-      "secret": "ee79e344818749bd7ac519130220c25d09",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 54,
-      "tg_url": "https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "server": "dl3.soft98.net",
-      "host": "dl3.soft98.net",
-      "port": 2053,
-      "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 42,
-      "tg_url": "https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972"
     },
     {
       "server": "amsterdam.geodns.info",
@@ -43,7 +33,7 @@
       "secret": "ee79e344818749bd7ac519130220c25d09",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 91,
+      "ping_ms": 76,
       "tg_url": "https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09"
     },
     {
@@ -53,28 +43,28 @@
       "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 64,
+      "ping_ms": 78,
       "tg_url": "https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275"
+    },
+    {
+      "server": "html.geo-cdn.ru",
+      "host": "html.geo-cdn.ru",
+      "port": 443,
+      "secret": "ee79e344818749bd7ac519130220c25d09",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 49,
+      "tg_url": "https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",
       "host": "redflag.yazaebalsyadelatproxy.uk",
       "port": 443,
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 49,
-      "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363"
-    },
-    {
-      "server": "edge.tidalcache.com",
-      "host": "edge.tidalcache.com",
-      "port": 443,
-      "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 57,
-      "tg_url": "https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d"
+      "ping_ms": 47,
+      "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63"
     },
     {
       "server": "ru.mishutkin.click",
@@ -83,28 +73,38 @@
       "secret": "eeb3488e94c4736494021f7b01c7ecf6bf72752e6d69736875746b696e2e636c69636b",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 79,
+      "ping_ms": 99,
       "tg_url": "https://t.me/proxy?server=ru.mishutkin.click&port=443&secret=eeb3488e94c4736494021f7b01c7ecf6bf72752e6d69736875746b696e2e636c69636b"
     },
     {
-      "server": "ultra.mishutkin.click",
-      "host": "ultra.mishutkin.click",
+      "server": "31.130.133.59",
+      "host": "31.130.133.59",
       "port": 443,
-      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
+      "secret": "ee79612e72754283dd67718731403044",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 81,
-      "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+      "ping_ms": 46,
+      "tg_url": "https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044"
     },
     {
-      "server": "hyper.sosproxy.space",
-      "host": "hyper.sosproxy.space",
-      "port": 443,
-      "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+      "server": "ppl.vpnpplvpn.top",
+      "host": "ppl.vpnpplvpn.top",
+      "port": 8443,
+      "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 80,
-      "tg_url": "https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d"
+      "ping_ms": 6,
+      "tg_url": "https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87"
+    },
+    {
+      "server": "marble.lite64.click",
+      "host": "marble.lite64.click",
+      "port": 443,
+      "secret": "ee3af44f54fb6bb24e664d38ffb1a781196d6172626c652e6c69746536342e636c69636b",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 64,
+      "tg_url": "https://t.me/proxy?server=marble.lite64.click&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a781196d6172626c652e6c69746536342e636c69636b"
     }
   ]
 }

@@ -1,20 +1,14 @@
 [
   {
+    "server": "global.mtp.lat",
+    "port": 443,
+    "secret": "eeea5c522925ce4846b03c8818bed7a4db6c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
     "server": "178.104.36.158",
     "port": 443,
     "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
-    "type": "mtproto"
-  },
-  {
-    "server": "html.geo-cdn.ru",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
-    "type": "mtproto"
-  },
-  {
-    "server": "dl3.soft98.net",
-    "port": 2053,
-    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
     "type": "mtproto"
   },
   {
@@ -30,15 +24,15 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
+    "server": "html.geo-cdn.ru",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
-    "server": "edge.tidalcache.com",
+    "server": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
     "type": "mtproto"
   },
   {
@@ -48,15 +42,21 @@
     "type": "mtproto"
   },
   {
-    "server": "ultra.mishutkin.click",
+    "server": "31.130.133.59",
     "port": 443,
-    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
+    "secret": "ee79612e72754283dd67718731403044",
     "type": "mtproto"
   },
   {
-    "server": "hyper.sosproxy.space",
+    "server": "ppl.vpnpplvpn.top",
+    "port": 8443,
+    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
+    "type": "mtproto"
+  },
+  {
+    "server": "marble.lite64.click",
     "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "secret": "ee3af44f54fb6bb24e664d38ffb1a781196d6172626c652e6c69746536342e636c69636b",
     "type": "mtproto"
   }
 ]
