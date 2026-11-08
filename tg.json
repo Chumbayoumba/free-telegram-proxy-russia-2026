@@ -1,20 +1,14 @@
 [
   {
-    "server": "amsterdam.geodns.info",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
-    "type": "mtproto"
-  },
-  {
-    "server": "31.130.133.59",
-    "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
-    "type": "mtproto"
-  },
-  {
     "server": "html.geo-cdn.ru",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
@@ -24,21 +18,15 @@
     "type": "mtproto"
   },
   {
-    "server": "dl3.soft98.net",
-    "port": 2053,
-    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
-    "type": "mtproto"
-  },
-  {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
-    "type": "mtproto"
-  },
-  {
     "server": "condor-granite.driftquill.click",
     "port": 443,
     "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "route.lovely.lat",
+    "port": 443,
+    "secret": "eefbfe5681832d6f42bbc050839be23bf46d2e6265626f6f2e7275",
     "type": "mtproto"
   },
   {
@@ -48,15 +36,27 @@
     "type": "mtproto"
   },
   {
-    "server": "178.104.36.158",
+    "server": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
-    "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
     "type": "mtproto"
   },
   {
     "server": "xxmatrixx.top",
     "port": 853,
     "secret": "eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70",
+    "type": "mtproto"
+  },
+  {
+    "server": "hyper.sosproxy.space",
+    "port": 443,
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "type": "mtproto"
+  },
+  {
+    "server": "drift.lite64.top",
+    "port": 443,
+    "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
     "type": "mtproto"
   }
 ]
