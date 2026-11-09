@@ -1,26 +1,14 @@
 [
   {
-    "server": "dl3.soft98.net",
-    "port": 2053,
-    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
-    "type": "mtproto"
-  },
-  {
     "server": "31.130.133.59",
     "port": 443,
     "secret": "ee79612e72754283dd67718731403044",
     "type": "mtproto"
   },
   {
-    "server": "amsterdam.geodns.info",
+    "server": "condor-granite.driftquill.click",
     "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
-    "type": "mtproto"
-  },
-  {
-    "server": "echo.lite64.top",
-    "port": 443,
-    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   },
   {
@@ -36,27 +24,39 @@
     "type": "mtproto"
   },
   {
-    "server": "fresco-geyser.velvetoak.work",
-    "port": 443,
-    "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
     "server": "186.246.4.174",
     "port": 8443,
     "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
+    "server": "ppl.vpnpplvpn.top",
+    "port": 8443,
+    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
     "type": "mtproto"
   },
   {
-    "server": "drift.lite64.top",
+    "server": "route.lovely.lat",
     "port": 443,
-    "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
+    "secret": "eefbfe5681832d6f42bbc050839be23bf46d2e6265626f6f2e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "amsterdam.geodns.info",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "fresco-geyser.driftquill.click",
+    "port": 443,
+    "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "dl3.soft98.net",
+    "port": 2053,
+    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
     "type": "mtproto"
   }
 ]
