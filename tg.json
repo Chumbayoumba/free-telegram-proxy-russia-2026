@@ -6,21 +6,9 @@
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.driftquill.click",
-    "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
-    "type": "mtproto"
-  },
-  {
-    "server": "north.velvetoak.work",
-    "port": 443,
-    "secret": "eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
-    "type": "mtproto"
-  },
-  {
-    "server": "html.geo-cdn.ru",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "server": "dl3.soft98.net",
+    "port": 2053,
+    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
     "type": "mtproto"
   },
   {
@@ -42,9 +30,9 @@
     "type": "mtproto"
   },
   {
-    "server": "amsterdam.geodns.info",
+    "server": "condor-granite.driftquill.click",
     "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
     "type": "mtproto"
   },
   {
@@ -54,9 +42,21 @@
     "type": "mtproto"
   },
   {
-    "server": "dl3.soft98.net",
-    "port": 2053,
-    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
+    "server": "poppy-elm.velvetoak.work",
+    "port": 443,
+    "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "echo.lite64.xyz",
+    "port": 443,
+    "secret": "ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "amsterdam.geodns.info",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   }
 ]
