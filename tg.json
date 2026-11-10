@@ -1,14 +1,14 @@
 [
   {
-    "server": "amsterdam.geodns.info",
+    "server": "html.geo-cdn.ru",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
-    "server": "dl3.soft98.net",
-    "port": 2053,
-    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
+    "server": "amsterdam.geodns.info",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
     "type": "mtproto"
   },
   {
@@ -18,33 +18,9 @@
     "type": "mtproto"
   },
   {
-    "server": "ppl.vpnpplvpn.top",
-    "port": 8443,
-    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-    "type": "mtproto"
-  },
-  {
-    "server": "html.geo-cdn.ru",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
-    "type": "mtproto"
-  },
-  {
-    "server": "ru.mishutkin.click",
-    "port": 443,
-    "secret": "eeb3488e94c4736494021f7b01c7ecf6bf72752e6d69736875746b696e2e636c69636b",
-    "type": "mtproto"
-  },
-  {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
-    "type": "mtproto"
-  },
-  {
-    "server": "hyper.sosproxy.space",
-    "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "server": "dl3.soft98.net",
+    "port": 2053,
+    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
     "type": "mtproto"
   },
   {
@@ -54,9 +30,33 @@
     "type": "mtproto"
   },
   {
-    "server": "edge.tidalcache.com",
+    "server": "super.alotaxi.info",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
+    "type": "mtproto"
+  },
+  {
+    "server": "186.246.4.174",
+    "port": 8443,
+    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
+    "type": "mtproto"
+  },
+  {
+    "server": "high.telehelp.top",
+    "port": 443,
+    "secret": "ee5b93eed4a729a5e53105623d8551dc3664726976652e676f6f676c652e636f6d",
+    "type": "mtproto"
+  },
+  {
+    "server": "mobile.mishutkin.click",
+    "port": 443,
+    "secret": "eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b",
     "type": "mtproto"
   }
 ]
