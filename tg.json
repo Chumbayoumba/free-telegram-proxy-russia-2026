@@ -1,5 +1,17 @@
 [
   {
+    "server": "html.geo-cdn.ru",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "amsterdam.geodns.info",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
     "server": "31.130.133.59",
     "port": 443,
     "secret": "ee79612e72754283dd67718731403044",
@@ -12,33 +24,21 @@
     "type": "mtproto"
   },
   {
-    "server": "186.246.4.174",
-    "port": 8443,
-    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-    "type": "mtproto"
-  },
-  {
-    "server": "ppl.vpnpplvpn.top",
-    "port": 8443,
-    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-    "type": "mtproto"
-  },
-  {
-    "server": "route.lovely.lat",
+    "server": "host.white-dns.info",
     "port": 443,
-    "secret": "eefbfe5681832d6f42bbc050839be23bf46d2e6265626f6f2e7275",
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
     "type": "mtproto"
   },
   {
-    "server": "condor-granite.driftquill.click",
+    "server": "sumi71.mosswren.vip",
     "port": 443,
-    "secret": "ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465",
+    "secret": "ee214011ba04108a7b1836df3a5e918b3b73756d6937312e6d6f73737772656e2e766970",
     "type": "mtproto"
   },
   {
-    "server": "fresco-geyser.driftquill.click",
+    "server": "ultra.mishutkin.click",
     "port": 443,
-    "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
     "type": "mtproto"
   },
   {
@@ -54,9 +54,9 @@
     "type": "mtproto"
   },
   {
-    "server": "amsterdam.geodns.info",
+    "server": "fresco-geyser.driftquill.click",
     "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
     "type": "mtproto"
   }
 ]

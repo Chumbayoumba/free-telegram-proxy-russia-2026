@@ -1,14 +1,14 @@
 # Free Telegram MTProto Proxy List 2026 — Russia
 # Checked from a Russian server. Format: host:port:secret
-# Updated: 2026-11-09T20:39:03+00:00
+# Updated: 2026-11-10T04:07:50+00:00
 # Fresh proxies every hour: https://t.me/+Si9-YyVaQTU1MjAy
+html.geo-cdn.ru:443:ee79e344818749bd7ac519130220c25d09
+amsterdam.geodns.info:443:ee79e344818749bd7ac519130220c25d09
 31.130.133.59:443:ee79612e72754283dd67718731403044
 dl3.soft98.net:2053:ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972
-186.246.4.174:8443:ddbd7949ea22934a3af773233bd1e6cd87
-ppl.vpnpplvpn.top:8443:ddbd7949ea22934a3af773233bd1e6cd87
-route.lovely.lat:443:eefbfe5681832d6f42bbc050839be23bf46d2e6265626f6f2e7275
-condor-granite.driftquill.click:443:ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465
-fresco-geyser.driftquill.click:443:ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465
+host.white-dns.info:443:ee3e85aac6e7bcc0ba3847479bff8ef2a4
+sumi71.mosswren.vip:443:ee214011ba04108a7b1836df3a5e918b3b73756d6937312e6d6f73737772656e2e766970
+ultra.mishutkin.click:443:eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
 poppy-elm.velvetoak.work:443:eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465
 echo.lite64.xyz:443:ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465
-amsterdam.geodns.info:443:ee79e344818749bd7ac519130220c25d09
+fresco-geyser.driftquill.click:443:ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465
