@@ -6,15 +6,15 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "type": "mtproto"
-  },
-  {
     "server": "31.130.133.59",
     "port": 443,
     "secret": "ee79612e72754283dd67718731403044",
+    "type": "mtproto"
+  },
+  {
+    "server": "redflag.yazaebalsyadelatproxy.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
     "type": "mtproto"
   },
   {
@@ -24,21 +24,21 @@
     "type": "mtproto"
   },
   {
-    "server": "host.white-dns.info",
+    "server": "tg6.turboass.live",
     "port": 443,
-    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+    "secret": "ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
-    "server": "yazaebalsyadelatproxy.uk",
+    "server": "edge.tidalcache.com",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f6f77656c77652e6c697665",
+    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
     "type": "mtproto"
   },
   {
@@ -54,9 +54,9 @@
     "type": "mtproto"
   },
   {
-    "server": "edge.tidalcache.com",
+    "server": "edge1.tidalcache.com",
     "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf65646765312e746964616c63616368652e636f6d",
     "type": "mtproto"
   }
 ]
