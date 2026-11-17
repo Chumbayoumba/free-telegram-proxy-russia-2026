@@ -1,20 +1,14 @@
 [
   {
-    "server": "dl3.soft98.net",
-    "port": 2053,
-    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
+    "server": "mobile.mishutkin.click",
+    "port": 443,
+    "secret": "eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b",
     "type": "mtproto"
   },
   {
-    "server": "31.130.133.59",
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
     "port": 443,
-    "secret": "ee79612e72754283dd67718731403044",
-    "type": "mtproto"
-  },
-  {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
@@ -30,33 +24,39 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "host.white-dns.info",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
     "type": "mtproto"
   },
   {
-    "server": "edge.tidalcache.com",
+    "server": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   },
   {
-    "server": "186.246.4.174",
-    "port": 8443,
-    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
+    "server": "super.alotaxi.info",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
     "type": "mtproto"
   },
   {
-    "server": "ppl.vpnpplvpn.top",
-    "port": 8443,
-    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-    "type": "mtproto"
-  },
-  {
-    "server": "edge1.tidalcache.com",
+    "server": "31.130.133.59",
     "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf65646765312e746964616c63616368652e636f6d",
+    "secret": "ee79612e72754283dd67718731403044",
+    "type": "mtproto"
+  },
+  {
+    "server": "dolphin.lite64.xyz",
+    "port": 443,
+    "secret": "ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465",
+    "type": "mtproto"
+  },
+  {
+    "server": "edge.turboass.live",
+    "port": 443,
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
     "type": "mtproto"
   }
 ]
