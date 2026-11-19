@@ -11,7 +11,7 @@
 **Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 19.11.2026 03:25 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 19.11.2026 13:14 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://webproxy.stream/)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -26,16 +26,16 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `host.white-dns.info` | `443` | 🟢 53 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 2 | `tg6.turboass.live` | `443` | 🟢 50 мс | **[⚡ Подключить](https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665)** |
-| 3 | `super.alotaxi.info` | `4515` | 🟢 62 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
-| 4 | `edge1.tidalcache.com` | `443` | 🟡 122 мс | **[⚡ Подключить](https://t.me/proxy?server=edge1.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf65646765312e746964616c63616368652e636f6d)** |
-| 5 | `dl3.soft98.net` | `2053` | 🟢 42 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
-| 6 | `beryl-sky.velvetoak.work` | `443` | 🟢 70 мс | **[⚡ Подключить](https://t.me/proxy?server=beryl-sky.velvetoak.work&port=443&secret=eee9d789556129383a1bfcf42889efc617626572796c2d736b792e76656c7665746f616b2e776f726b)** |
-| 7 | `drift.lite64.top` | `443` | 🟢 64 мс | **[⚡ Подключить](https://t.me/proxy?server=drift.lite64.top&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465)** |
-| 8 | `edge.tidalcache.com` | `443` | 🟡 120 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d)** |
-| 9 | `fresco-geyser.driftquill.…` | `443` | 🟢 66 мс | **[⚡ Подключить](https://t.me/proxy?server=fresco-geyser.driftquill.click&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465)** |
-| 10 | `sumi71.mosswren.vip` | `443` | 🟢 66 мс | **[⚡ Подключить](https://t.me/proxy?server=sumi71.mosswren.vip&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b73756d6937312e6d6f73737772656e2e766970)** |
+| 1 | `dl3.soft98.net` | `2053` | 🟢 42 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
+| 2 | `31.130.133.59` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
+| 3 | `tg6.turboass.live` | `443` | 🟡 96 мс | **[⚡ Подключить](https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665)** |
+| 4 | `dns.dnsrender.info` | `443` | 🟡 100 мс | **[⚡ Подключить](https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 5 | `186.246.4.174` | `8443` | 🟢 3 мс | **[⚡ Подключить](https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 6 | `ppl.vpnpplvpn.top` | `8443` | 🟢 6 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 7 | `178.104.36.158` | `443` | 🟢 42 мс | **[⚡ Подключить](https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01)** |
+| 8 | `super.alotaxi.info` | `4515` | 🟢 73 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
+| 9 | `falcon.mishutkin.click` | `443` | 🟡 108 мс | **[⚡ Подключить](https://t.me/proxy?server=falcon.mishutkin.click&port=443&secret=eecd4b206f5479dba885bfcd191414093666616c636f6e2e6d69736875746b696e2e636c69636b)** |
+| 10 | `ultra.mishutkin.click` | `443` | 🟢 79 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
 <!-- LIVE:END -->
 
 > [!TIP]
