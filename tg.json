@@ -1,11 +1,5 @@
 [
   {
-    "server": "dl3.soft98.net",
-    "port": 2053,
-    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
-    "type": "mtproto"
-  },
-  {
     "server": "31.130.133.59",
     "port": 443,
     "secret": "ee79612e72754283dd67718731403044",
@@ -30,12 +24,6 @@
     "type": "mtproto"
   },
   {
-    "server": "yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f6f77656c77652e6c697665",
-    "type": "mtproto"
-  },
-  {
     "server": "186.246.4.174",
     "port": 8443,
     "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
@@ -48,15 +36,27 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
+    "server": "93.115.20.4",
+    "port": 8443,
+    "secret": "dd4d1904787e99a86dc23b12eb306f2712",
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "host.white-dns.info",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+    "type": "mtproto"
+  },
+  {
+    "server": "dl3.soft98.net",
+    "port": 2053,
+    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
+    "type": "mtproto"
+  },
+  {
+    "server": "edge.turboass.live",
+    "port": 443,
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
     "type": "mtproto"
   }
 ]
