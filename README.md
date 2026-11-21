@@ -11,7 +11,7 @@
 **Free working Telegram MTProto proxy list for Russia 2026.** Every proxy below connected from a Russian server within the last hours. Updated every 2 hours. One-tap connect, no registration, no payment.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 21.11.2026 00:43 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 21.11.2026 06:10 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://webproxy.stream/)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -27,15 +27,15 @@
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
 | 1 | `31.130.133.59` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
-| 2 | `super.alotaxi.info` | `4515` | 🟢 65 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
-| 3 | `178.104.36.158` | `443` | 🟢 44 мс | **[⚡ Подключить](https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01)** |
-| 4 | `tg6.turboass.live` | `443` | 🟢 55 мс | **[⚡ Подключить](https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665)** |
-| 5 | `186.246.4.174` | `8443` | 🟢 4 мс | **[⚡ Подключить](https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 6 | `ppl.vpnpplvpn.top` | `8443` | 🟢 7 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 7 | `93.115.20.4` | `8443` | 🟢 75 мс | **[⚡ Подключить](https://t.me/proxy?server=93.115.20.4&port=8443&secret=dd4d1904787e99a86dc23b12eb306f2712)** |
-| 8 | `host.white-dns.info` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 9 | `dl3.soft98.net` | `2053` | 🟢 37 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
-| 10 | `edge.turboass.live` | `443` | 🟡 185 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 2 | `super.alotaxi.info` | `4515` | 🟢 63 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
+| 3 | `edge1.tidalcache.com` | `443` | 🟢 71 мс | **[⚡ Подключить](https://t.me/proxy?server=edge1.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf65646765312e746964616c63616368652e636f6d)** |
+| 4 | `tg6.turboass.live` | `443` | 🟢 47 мс | **[⚡ Подключить](https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665)** |
+| 5 | `dl3.soft98.net` | `2053` | 🟢 38 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
+| 6 | `host.white-dns.info` | `443` | 🟡 181 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 7 | `redflag.yazaebalsyadelatp…` | `443` | 🟢 64 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363)** |
+| 8 | `yazaebalsyadelatproxy.uk` | `443` | 🟢 67 мс | **[⚡ Подключить](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f6f77656c77652e6c697665)** |
+| 9 | `186.246.4.174` | `8443` | 🟢 4 мс | **[⚡ Подключить](https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 10 | `ppl.vpnpplvpn.top` | `8443` | 🟢 9 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
 <!-- LIVE:END -->
 
 > [!TIP]
