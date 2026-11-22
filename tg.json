@@ -12,39 +12,27 @@
     "type": "mtproto"
   },
   {
+    "server": "html.geo-cdn.ru",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
     "server": "super.alotaxi.info",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
     "type": "mtproto"
   },
   {
-    "server": "tg6.turboass.live",
+    "server": "ultraproxy.shop",
     "port": 443,
-    "secret": "ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
+    "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
+    "server": "31.130.133.59",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
-    "type": "mtproto"
-  },
-  {
-    "server": "yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f6f77656c77652e6c697665",
-    "type": "mtproto"
-  },
-  {
-    "server": "edge1.tidalcache.com",
-    "port": 443,
-    "secret": "ee5c89ab20266ce759f96a0745b63d7cdf65646765312e746964616c63616368652e636f6d",
-    "type": "mtproto"
-  },
-  {
-    "server": "html.geo-cdn.ru",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "secret": "ee79612e72754283dd67718731403044",
     "type": "mtproto"
   },
   {
@@ -54,7 +42,19 @@
     "type": "mtproto"
   },
   {
+    "server": "amsterdam.geodns.info",
+    "port": 443,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
     "server": "186.246.4.174",
+    "port": 8443,
+    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
+    "type": "mtproto"
+  },
+  {
+    "server": "ppl.vpnpplvpn.top",
     "port": 8443,
     "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
     "type": "mtproto"
