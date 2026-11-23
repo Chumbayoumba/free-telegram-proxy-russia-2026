@@ -1,11 +1,51 @@
 {
-  "updated": "2026-11-23T07:47:05+00:00",
+  "updated": "2026-11-23T20:10:37+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
   "price": "free",
   "source": "https://t.me/vnespiska",
   "proxies": [
+    {
+      "server": "edge.turboass.live",
+      "host": "edge.turboass.live",
+      "port": 443,
+      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 181,
+      "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
+    },
+    {
+      "server": "host.white-dns.info",
+      "host": "host.white-dns.info",
+      "port": 443,
+      "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 130,
+      "tg_url": "https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4"
+    },
+    {
+      "server": "amsterdam.geodns.info",
+      "host": "amsterdam.geodns.info",
+      "port": 443,
+      "secret": "ee79e344818749bd7ac519130220c25d09",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 121,
+      "tg_url": "https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09"
+    },
+    {
+      "server": "super.alotaxi.info",
+      "host": "super.alotaxi.info",
+      "port": 4515,
+      "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 70,
+      "tg_url": "https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275"
+    },
     {
       "server": "dl3.soft98.net",
       "host": "dl3.soft98.net",
@@ -17,34 +57,14 @@
       "tg_url": "https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972"
     },
     {
-      "server": "super.alotaxi.info",
-      "host": "super.alotaxi.info",
-      "port": 4515,
-      "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 115,
-      "tg_url": "https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275"
-    },
-    {
-      "server": "host.white-dns.info",
-      "host": "host.white-dns.info",
+      "server": "beryl-sky.velvetoak.work",
+      "host": "beryl-sky.velvetoak.work",
       "port": 443,
-      "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+      "secret": "eee9d789556129383a1bfcf42889efc617626572796c2d736b792e76656c7665746f616b2e776f726b",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 176,
-      "tg_url": "https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4"
-    },
-    {
-      "server": "amsterdam.geodns.info",
-      "host": "amsterdam.geodns.info",
-      "port": 443,
-      "secret": "ee79e344818749bd7ac519130220c25d09",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 189,
-      "tg_url": "https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09"
+      "ping_ms": 69,
+      "tg_url": "https://t.me/proxy?server=beryl-sky.velvetoak.work&port=443&secret=eee9d789556129383a1bfcf42889efc617626572796c2d736b792e76656c7665746f616b2e776f726b"
     },
     {
       "server": "ultraproxy.shop",
@@ -53,28 +73,8 @@
       "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 142,
+      "ping_ms": 90,
       "tg_url": "https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275"
-    },
-    {
-      "server": "yazaebalsyadelatproxy.uk",
-      "host": "yazaebalsyadelatproxy.uk",
-      "port": 443,
-      "secret": "ee69e899d89ec68e220ca177557322b27f6f77656c77652e6c697665",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 83,
-      "tg_url": "https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f6f77656c77652e6c697665"
-    },
-    {
-      "server": "edge.turboass.live",
-      "host": "edge.turboass.live",
-      "port": 443,
-      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 238,
-      "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
     },
     {
       "server": "html.geo-cdn.ru",
@@ -83,28 +83,28 @@
       "secret": "ee79e344818749bd7ac519130220c25d09",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 74,
+      "ping_ms": 54,
       "tg_url": "https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09"
     },
     {
-      "server": "redflag.yazaebalsyadelatproxy.co.uk",
-      "host": "redflag.yazaebalsyadelatproxy.co.uk",
+      "server": "31.130.133.59",
+      "host": "31.130.133.59",
       "port": 443,
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "secret": "ee79612e72754283dd67718731403044",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 67,
-      "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+      "ping_ms": 45,
+      "tg_url": "https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044"
     },
     {
-      "server": "186.246.4.174",
-      "host": "186.246.4.174",
-      "port": 8443,
-      "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
+      "server": "drift.lite64.top",
+      "host": "drift.lite64.top",
+      "port": 443,
+      "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 3,
-      "tg_url": "https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87"
+      "ping_ms": 106,
+      "tg_url": "https://t.me/proxy?server=drift.lite64.top&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465"
     }
   ]
 }
