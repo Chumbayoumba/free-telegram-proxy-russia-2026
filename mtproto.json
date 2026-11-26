@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:25:49+00:00",
+  "updated": "2026-11-26T10:55:22+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -13,7 +13,7 @@
       "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 50,
+      "ping_ms": 146,
       "tg_url": "https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4"
     },
     {
@@ -23,7 +23,7 @@
       "secret": "ee79e344818749bd7ac519130220c25d09",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 51,
+      "ping_ms": 57,
       "tg_url": "https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09"
     },
     {
@@ -33,38 +33,8 @@
       "secret": "ee79e344818749bd7ac519130220c25d09",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 48,
+      "ping_ms": 182,
       "tg_url": "https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "server": "super.alotaxi.info",
-      "host": "super.alotaxi.info",
-      "port": 4515,
-      "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 155,
-      "tg_url": "https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275"
-    },
-    {
-      "server": "tg6.turboass.live",
-      "host": "tg6.turboass.live",
-      "port": 443,
-      "secret": "ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 45,
-      "tg_url": "https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.uk",
-      "host": "redflag.yazaebalsyadelatproxy.uk",
-      "port": 443,
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 66,
-      "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363"
     },
     {
       "server": "dl3.soft98.net",
@@ -77,34 +47,64 @@
       "tg_url": "https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972"
     },
     {
-      "server": "ppl.vpnpplvpn.top",
-      "host": "ppl.vpnpplvpn.top",
-      "port": 8443,
-      "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 5,
-      "tg_url": "https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87"
-    },
-    {
-      "server": "51.158.187.113",
-      "host": "51.158.187.113",
-      "port": 38443,
-      "secret": "ddca11911c0de0faffec7edbada55cab1e",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 51,
-      "tg_url": "https://t.me/proxy?server=51.158.187.113&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e"
-    },
-    {
-      "server": "falcon.mishutkin.click",
-      "host": "falcon.mishutkin.click",
+      "server": "redflag.yazaebalsyadelatproxy.uk",
+      "host": "redflag.yazaebalsyadelatproxy.uk",
       "port": 443,
-      "secret": "eecd4b206f5479dba885bfcd191414093666616c636f6e2e6d69736875746b696e2e636c69636b",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 69,
-      "tg_url": "https://t.me/proxy?server=falcon.mishutkin.click&port=443&secret=eecd4b206f5479dba885bfcd191414093666616c636f6e2e6d69736875746b696e2e636c69636b"
+      "ping_ms": 63,
+      "tg_url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "super.alotaxi.info",
+      "host": "super.alotaxi.info",
+      "port": 4515,
+      "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 168,
+      "tg_url": "https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275"
+    },
+    {
+      "server": "tg6.turboass.live",
+      "host": "tg6.turboass.live",
+      "port": 443,
+      "secret": "ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 133,
+      "tg_url": "https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665"
+    },
+    {
+      "server": "edge.turboass.live",
+      "host": "edge.turboass.live",
+      "port": 443,
+      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 137,
+      "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
+    },
+    {
+      "server": "31.130.133.59",
+      "host": "31.130.133.59",
+      "port": 443,
+      "secret": "ee79612e72754283dd67718731403044",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 44,
+      "tg_url": "https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044"
+    },
+    {
+      "server": "fast.proxynet.tech",
+      "host": "fast.proxynet.tech",
+      "port": 443,
+      "secret": "ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 72,
+      "tg_url": "https://t.me/proxy?server=fast.proxynet.tech&port=443&secret=ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368"
     }
   ]
 }
