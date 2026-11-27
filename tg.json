@@ -18,9 +18,33 @@
     "type": "mtproto"
   },
   {
-    "server": "tg6.turboass.live",
+    "server": "host.white-dns.info",
     "port": 443,
-    "secret": "ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+    "type": "mtproto"
+  },
+  {
+    "server": "fast.mishutkin.click",
+    "port": 443,
+    "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d",
+    "type": "mtproto"
+  },
+  {
+    "server": "pulse.mtp.mom",
+    "port": 443,
+    "secret": "eec2a574b834962003d0d0ecf7fe9071e1786170692e6f7a6f6e2e7275",
+    "type": "mtproto"
+  },
+  {
+    "server": "win.sosproxy.space",
+    "port": 443,
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+    "type": "mtproto"
+  },
+  {
+    "server": "ppl.vpnpplvpn.top",
+    "port": 8443,
+    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
     "type": "mtproto"
   },
   {
@@ -30,33 +54,9 @@
     "type": "mtproto"
   },
   {
-    "server": "dl3.soft98.net",
-    "port": 2053,
-    "secret": "ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972",
-    "type": "mtproto"
-  },
-  {
-    "server": "edge.turboass.live",
+    "server": "fast.proxynet.tech",
     "port": 443,
-    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-    "type": "mtproto"
-  },
-  {
-    "server": "51.158.187.113",
-    "port": 38443,
-    "secret": "ddca11911c0de0faffec7edbada55cab1e",
-    "type": "mtproto"
-  },
-  {
-    "server": "high.telehelp.top",
-    "port": 443,
-    "secret": "ee5b93eed4a729a5e53105623d8551dc3664726976652e676f6f676c652e636f6d",
-    "type": "mtproto"
-  },
-  {
-    "server": "top.proxynet.tech",
-    "port": 443,
-    "secret": "ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368",
+    "secret": "ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368",
     "type": "mtproto"
   }
 ]
