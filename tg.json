@@ -1,5 +1,11 @@
 [
   {
+    "server": "edge.turboass.live",
+    "port": 443,
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
     "server": "html.geo-cdn.ru",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
@@ -18,15 +24,9 @@
     "type": "mtproto"
   },
   {
-    "server": "host.white-dns.info",
+    "server": "tg6.turboass.live",
     "port": 443,
-    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
-    "type": "mtproto"
-  },
-  {
-    "server": "fast.mishutkin.click",
-    "port": 443,
-    "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d",
+    "secret": "ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
     "type": "mtproto"
   },
   {
@@ -36,27 +36,27 @@
     "type": "mtproto"
   },
   {
-    "server": "win.sosproxy.space",
+    "server": "host.white-dns.info",
     "port": 443,
-    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
-    "type": "mtproto"
-  },
-  {
-    "server": "ppl.vpnpplvpn.top",
-    "port": 8443,
-    "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
-    "type": "mtproto"
-  },
-  {
-    "server": "ultra.mishutkin.click",
-    "port": 443,
-    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
     "type": "mtproto"
   },
   {
     "server": "fast.proxynet.tech",
     "port": 443,
     "secret": "ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368",
+    "type": "mtproto"
+  },
+  {
+    "server": "fast.mishutkin.click",
+    "port": 443,
+    "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d",
+    "type": "mtproto"
+  },
+  {
+    "server": "cirrus.lite64.xyz",
+    "port": 443,
+    "secret": "eec656b30311471670aee8d5e41bd6bd836c69746536342e73697465",
     "type": "mtproto"
   }
 ]
